@@ -54,24 +54,49 @@ export const Contact = () => {
             </Card>
           </div>
 
-          <Card>
-            <CardContent className="p-8">
-              <div className="flex items-center gap-3 mb-6">
-                <div className="w-12 h-12 bg-primary/10 rounded-full flex items-center justify-center">
-                  <Clock size={24} className="text-primary" />
-                </div>
-                <h3 className="text-2xl font-semibold text-foreground">Business Hours</h3>
-              </div>
-              <div className="space-y-4">
-                {businessHours.map((schedule, idx) => (
-                  <div key={idx} className="flex justify-between items-center py-3 border-b border-border last:border-0">
-                    <span className="text-sm font-medium text-foreground">{schedule.day}</span>
-                    <span className="text-sm text-muted-foreground">{schedule.hours}</span>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
+            <Card>
+              <CardContent className="p-8">
+                <div className="flex items-center gap-3 mb-6">
+                  <div className="w-12 h-12 bg-primary/10 rounded-full flex items-center justify-center">
+                    <Clock size={24} className="text-primary" />
                   </div>
-                ))}
-              </div>
-            </CardContent>
-          </Card>
+                  <h3 className="text-2xl font-semibold text-foreground">Business Hours</h3>
+                </div>
+                <div className="space-y-4">
+                  {businessHours.map((schedule, idx) => (
+                    <div key={idx} className="flex justify-between items-center py-3 border-b border-border last:border-0">
+                      <span className="text-sm font-medium text-foreground">{schedule.day}</span>
+                      <span className="text-sm text-muted-foreground">{schedule.hours}</span>
+                    </div>
+                  ))}
+                </div>
+              </CardContent>
+            </Card>
+
+            <Card>
+              <CardContent className="p-8">
+                <div className="flex items-center gap-3 mb-6">
+                  <div className="w-12 h-12 bg-primary/10 rounded-full flex items-center justify-center">
+                    <Phone size={24} className="text-primary" />
+                  </div>
+                  <h3 className="text-2xl font-semibold text-foreground">Visit Us</h3>
+                </div>
+                <div className="space-y-4 text-muted-foreground">
+                  <div>
+                    <p className="font-medium text-foreground mb-2">Address:</p>
+                    <p className="text-sm">S N-201-M N-2761</p>
+                    <p className="text-sm">GURU NANAK MOTOR MARKET</p>
+                    <p className="text-sm">KASHMERE GATE, DELHI-110006</p>
+                  </div>
+                  <div>
+                    <p className="font-medium text-foreground mb-1">GST Number:</p>
+                    <p className="text-sm font-mono">07AAUXPK7061ZX</p>
+                  </div>
+                </div>
+              </CardContent>
+            </Card>
+          </div>
 
           <div className="mt-12 bg-secondary border border-border rounded-xl p-8 text-center">
             <h3 className="text-2xl font-bold text-foreground mb-4">Need Help with Bulk Orders?</h3>
