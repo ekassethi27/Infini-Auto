@@ -25,9 +25,13 @@ export const Home = () => {
       <section className="bg-gradient-to-b from-secondary to-background">
         <div className="container mx-auto px-4 py-20 md:py-28">
           <div className="max-w-3xl mx-auto text-center">
-            <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-foreground mb-6 leading-tight">
-              Reliable Auto Spare Parts
-            </h1>
+            <div className="flex justify-center mb-8">
+              <img 
+                src="/infinity-logo.png" 
+                alt="Infinity Auto Parts" 
+                className="h-32 w-auto object-contain"
+              />
+            </div>
             <p className="text-lg sm:text-xl text-muted-foreground mb-8 leading-relaxed">
               Precision-engineered components for commercial vehicles.
             </p>
