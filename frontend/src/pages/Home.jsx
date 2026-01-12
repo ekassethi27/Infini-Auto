@@ -7,12 +7,12 @@ import { RequestProductButton } from '@/components/RequestProductButton';
 
 export const Home = () => {
   const categories = [
-    { name: 'Pinion', count: '40+', icon: Settings },
-    { name: 'PTO Gear', count: '35+', icon: Settings },
-    { name: 'Clutch Bearing', count: '25+', icon: Circle },
-    { name: 'Clutch Plate', count: '30+', icon: Disc },
-    { name: 'Axle', count: '45+', icon: Hexagon },
-    { name: 'Gear Box', count: '20+', icon: Box },
+    { name: 'PINION', count: '40+', icon: Settings },
+    { name: 'PTO GEAR', count: '35+', icon: Settings },
+    { name: 'CLUTCH BEARING', count: '25+', icon: Circle },
+    { name: 'CLUTCH PLATE', count: '30+', icon: Disc },
+    { name: 'AXLE', count: '45+', icon: Hexagon },
+    { name: 'GEAR BOX', count: '20+', icon: Box },
   ];
 
   const trustFeatures = [
