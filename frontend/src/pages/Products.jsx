@@ -296,6 +296,10 @@ export const Products = () => {
             )}
           </div>
         </div>
+        
+        <div className="container mx-auto px-4 mt-12">
+          <RequestProductButton />
+        </div>
       </div>
     </div>
   );
