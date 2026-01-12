@@ -92,7 +92,7 @@ export const Home = () => {
 
       <section className="bg-background py-16 md:py-20">
         <div className="container mx-auto px-4">
-          <div className="max-w-3xl mx-auto text-center">
+          <div className="max-w-3xl mx-auto text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">
               Need Help Finding the Right Part?
             </h2>
@@ -103,6 +103,7 @@ export const Home = () => {
               <Link to="/contact">Contact Us</Link>
             </Button>
           </div>
+          <RequestProductButton />
         </div>
       </section>
     </div>
