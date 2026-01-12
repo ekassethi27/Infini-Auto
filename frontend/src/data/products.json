@@ -7,7 +7,7 @@
     ],
     "specifications": {
       "size": "6X35",
-      "teeth": "250",
+      "spec_2": "250",
       "model": "BM28"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0001.png",
@@ -48,7 +48,7 @@
     "specifications": {
       "size": "29X17",
       "type": "LONG",
-      "model": "1616",
+      "spec_3": "1616",
       "brand": "TATA"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0004.png",
@@ -62,7 +62,7 @@
     ],
     "specifications": {
       "size": "29X17",
-      "type": "SHOT",
+      "spec_2": "SHOT",
       "brand": "EATON"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0005.png",
@@ -75,8 +75,8 @@
       "PTO SHAFT"
     ],
     "specifications": {
-      "model": "1150",
-      "type": "MADHANI ROD",
+      "spec_1": "1150",
+      "spec_2": "MADHANI ROD",
       "size": "13X24T"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0006.png",
@@ -89,9 +89,8 @@
       "PTO SHAFT"
     ],
     "specifications": {
-      "brand": "EATON ZF",
-      "size": "14X12",
-      "model": "ZF 1130 9S"
+      "brand": "ZF 1130 9S",
+      "size": "14X12"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0007.png",
     "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0007%20-%20EATON%20ZF%20PTO%20SAHFT%2014X12%20ZF%201130%209S"
@@ -103,9 +102,9 @@
       "GEAR"
     ],
     "specifications": {
-      "model": "1150",
-      "type": "CUPPLER SMALL",
-      "size": "24X12"
+      "spec_1": "1150",
+      "size": "24X12",
+      "type": "CUPPLER SMALL"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0008.png",
     "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0008%20-%201150%20GEAR%20MADHANI%2024X12%20CUPPLER%20SMALL"
@@ -117,9 +116,9 @@
       "PTO GEAR"
     ],
     "specifications": {
-      "model": "75",
-      "type": "COUNTER HELICAL",
-      "size": "25X10"
+      "spec_1": "75",
+      "size": "25X10",
+      "type": "COUNTER HELICAL"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0009.png",
     "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0009%20-%2075%20PTO%20GEAR%2025X10%20COUNTER%20HELICAL"
@@ -132,7 +131,7 @@
       "BUSH"
     ],
     "specifications": {
-      "spline": "6",
+      "spec_1": "6",
       "type": "SPLINE BUSH"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0010.png",
@@ -158,7 +157,7 @@
       "PTO"
     ],
     "specifications": {
-      "model": "1150",
+      "spec_1": "1150",
       "brand": "ZF",
       "type": "BIG",
       "size": "12X8"
@@ -176,7 +175,7 @@
       "size": "12X8",
       "brand": "ZF",
       "type": "SMALL",
-      "model": "L55"
+      "spec_4": "L55"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0013.png",
     "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0013%20-%20PTO%2012X8%20ZF%20SMALL%20L55"
@@ -189,7 +188,7 @@
     ],
     "specifications": {
       "size": "22X8",
-      "type": "PZB"
+      "spec_2": "PZB"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0014.png",
     "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0014%20-%2022X8%20PTO%20GEAR%20PZB"
@@ -214,8 +213,8 @@
       "PTO GEAR"
     ],
     "specifications": {
-      "type": "COUNTER GEAR SMALL HELICAL",
-      "size": "10X6"
+      "size": "10X6",
+      "type": "HELICAL"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0016.png",
     "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0016%20-%20PTO%20COUNTER%20GEAR%20SMALL%2010X6%20HELICAL"
@@ -242,7 +241,8 @@
     "specifications": {
       "brand": "EATON LEY",
       "type": "SMALL",
-      "size": "12X26"
+      "size": "12X26",
+      "spec_4": "PATLA"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0018.png",
     "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0018%20-%20EATON%20PTO%20LEY%20SMALL%2012X26%20PATLA"
@@ -255,7 +255,7 @@
     ],
     "specifications": {
       "model": "G1150",
-      "type": "HOUSING"
+      "spec_2": "HOUSING"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0019.png",
     "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0019%20-%20GEAR%20BOX%20G1150%20HOUSING"
@@ -267,8 +267,8 @@
       "BOGI"
     ],
     "specifications": {
-      "type": "OUTPIN",
-      "model": "BS4"
+      "model": "BS4",
+      "spec_2": "OUTPIN"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0020.png",
     "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0020%20-%20BOGI%20BS4%20OUTPIN"
@@ -280,8 +280,8 @@
       "BOGI"
     ],
     "specifications": {
-      "type": "WITHPIN",
-      "model": "BS4"
+      "model": "BS4",
+      "spec_2": "WITHPIN"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0021.png",
     "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0021%20-%20BOGI%20BS4%20WITHPIN"
@@ -306,7 +306,7 @@
     ],
     "specifications": {
       "model": "BS6",
-      "type": "PLANE HOURSE"
+      "spec_2": "PLANE HOURSE"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0023.png",
     "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0023%20-%20BOGI%20BS6%20PLANE%20HOURSE"
@@ -331,7 +331,7 @@
     ],
     "specifications": {
       "size": "6X39",
-      "teeth": "576",
+      "spec_2": "576",
       "model": "BM39 NGP"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0025.png",
@@ -370,7 +370,8 @@
     ],
     "specifications": {
       "size": "6X37",
-      "model": "464NG / BE22NG"
+      "spec_2": "464NG",
+      "model": "BE22NG"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0028.png",
     "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0028%20-%206X37%20PINION%20464NG%20%2F%20BE22NG"
@@ -383,7 +384,8 @@
     ],
     "specifications": {
       "size": "6X35",
-      "model": "408NG / BM35"
+      "spec_2": "408NG",
+      "model": "BM35"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0029.png",
     "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0029%20-%206X35%20PINION%20408NG%20%2F%20BM35"
@@ -395,9 +397,9 @@
       "PINION"
     ],
     "specifications": {
-      "model": "4395F",
+      "spec_1": "4395F",
       "size": "6X35",
-      "type": "NGF"
+      "spec_3": "NGF"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0030.png",
     "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0030%20-%204395F%206X35%20PINION%20NGF"
@@ -410,7 +412,8 @@
     ],
     "specifications": {
       "size": "6X35",
-      "model": "4323 / BD25",
+      "spec_2": "4323",
+      "model": "BD25",
       "brand": "DANA"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0031.png",
@@ -436,7 +439,8 @@
     ],
     "specifications": {
       "size": "6X41",
-      "model": "466 /BM28"
+      "spec_2": "466",
+      "model": "BM28"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0033.png",
     "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0033%20-%206X41%20PINION%20466%20%2FBM28"
@@ -460,8 +464,8 @@
       "CLUTCH BEARING"
     ],
     "specifications": {
-      "model": "380-SELF CRB",
-      "features": "WITH HUB-SHOT"
+      "spec_1": "380-SELF CRB",
+      "spec_2": "HUB-SHOT"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0035.png",
     "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0035%20-%20CLUTCH%20BEARING%20380-SELF%20CRB%20WITH%20HUB-SHOT"
@@ -474,7 +478,8 @@
     ],
     "specifications": {
       "size": "6X41",
-      "model": "642 / BM23"
+      "spec_2": "642",
+      "model": "BM23"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0036.png",
     "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0036%20-%206X41%20PINION%20642%20%2F%20BM23"
@@ -500,7 +505,8 @@
     ],
     "specifications": {
       "size": "6X37",
-      "model": "644 / BEM46"
+      "spec_2": "644",
+      "model": "BEM46"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0038.png",
     "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0038%20-%206X37%20PINION%20644%20%2F%20BEM46"
@@ -513,49 +519,53 @@
     ],
     "specifications": {
       "size": "6X37",
-      "model": "/BM46N"
+      "model": "BM46N"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0039.png",
     "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0039%20-%206X37%20PINION%20%2FBM46N"
   },
   {
     "product_code": "INF-0040",
-    "product_name": "7X41 PINION 41670 / BE60",
+    "product_name": "456 7X41 PINION 41670 / BE60",
     "categories": [
       "PINION"
     ],
     "specifications": {
+      "spec_1": "456",
       "size": "7X41",
-      "model": "41670 / BE60"
+      "spec_3": "41670",
+      "model": "BE60"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0040.png",
-    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0040%20-%207X41%20PINION%2041670%20%2F%20BE60"
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0040%20-%20456%207X41%20PINION%2041670%20%2F%20BE60"
   },
   {
     "product_code": "INF-0041",
-    "product_name": "6X41 PINION NPA/PL80",
+    "product_name": "6X41PINION NPA/PL80",
     "categories": [
       "PINION"
     ],
     "specifications": {
       "size": "6X41",
-      "model": "NPA/PL80"
+      "spec_2": "NPA",
+      "spec_3": "PL80"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0041.png",
-    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0041%20-%206X41%20PINION%20NPA%2FPL80"
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0041%20-%206X41PINION%20NPA%2FPL80"
   },
   {
     "product_code": "INF-0042",
-    "product_name": "6X41 PINION NPA/PL81",
+    "product_name": "6X41PINION NPA/PL81",
     "categories": [
       "PINION"
     ],
     "specifications": {
       "size": "6X41",
-      "model": "NPA/PL81"
+      "spec_2": "NPA",
+      "spec_3": "PL81"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0042.png",
-    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0042%20-%206X41%20PINION%20NPA%2FPL81"
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0042%20-%206X41PINION%20NPA%2FPL81"
   },
   {
     "product_code": "INF-0043",
@@ -577,7 +587,9 @@
       "CLUTCH BEARING"
     ],
     "specifications": {
-      "model": "380-SELF HUB"
+      "spec_1": "380-SELF HUB",
+      "spec_2": "3718",
+      "spec_3": "2523"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0044.png",
     "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0044%20-%20CLUTCH%20BEARING%20380-SELF%20HUB%203718%202523"
@@ -589,8 +601,8 @@
       "CLUTCH BEARING"
     ],
     "specifications": {
-      "model": "380 SELF CRB",
-      "features": "HUB-SHOT"
+      "spec_1": "380 SELF CRB",
+      "spec_2": "HUB-SHOT"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0045.png",
     "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0045%20-%20CLUTCH%20BEARING%20380%20SELF%20CRB%20HUB-SHOT"
@@ -602,23 +614,26 @@
       "CLUTCH BEARING"
     ],
     "specifications": {
-      "model": "380-430 CRB HUB"
+      "spec_1": "380-430 CRB HUB",
+      "spec_2": "3718",
+      "spec_3": "2523"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0046.png",
     "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0046%20-%20CLUTCH%20BEARING%20380-430%20CRB%20HUB%203718%2F2523"
   },
   {
     "product_code": "INF-0047",
-    "product_name": "CLUTCH BEARING 380/395 CRB HUB -GB75 BS6 MODIFIED",
+    "product_name": "CLUTCH BEARING 380/395 CRB HUB -GB75 BS6 modified",
     "categories": [
       "CLUTCH BEARING"
     ],
     "specifications": {
-      "model": "380/395 CRB HUB",
-      "compatible": "GB75 BS6"
+      "spec_1": "380/395 CRB HUB",
+      "spec_2": "GB75",
+      "model": "BS6"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0047.png",
-    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0047%20-%20CLUTCH%20BEARING%20380%2F395%20CRB%20HUB%20-GB75%20BS6%20MODIFIED"
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0047%20-%20CLUTCH%20BEARING%20380%2F395%20CRB%20HUB%20-GB75%20BS6%20modified"
   },
   {
     "product_code": "INF-0048",
@@ -627,8 +642,8 @@
       "CLUTCH BEARING"
     ],
     "specifications": {
-      "model": "430-PRIMA SIGNA",
-      "compatible": "BS6"
+      "spec_1": "430-PRIMA SIGNA",
+      "model": "BS6"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0048.png",
     "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0048%20-%20CLUTCH%20BEARING%20430-PRIMA%20SIGNA%20BS6"
@@ -640,8 +655,9 @@
       "CLUTCH BEARING"
     ],
     "specifications": {
-      "model": "430 CRB HUB",
-      "compatible": "PRIMA SIGNA BS6"
+      "spec_1": "430 CRB HUB",
+      "spec_2": "PRIMA SIGNA",
+      "model": "BS6"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0049.png",
     "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0049%20-%20CLUTCH%20BEARING%20430%20CRB%20HUB%20PRIMA%20SIGNA%20BS6"
@@ -653,9 +669,2090 @@
       "CLUTCH BEARING"
     ],
     "specifications": {
-      "model": "430-PRIMA"
+      "spec_1": "430-PRIMA"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0050.png",
     "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0050%20-%20CLUTCH%20BEARING%20430-PRIMA"
+  },
+  {
+    "product_code": "INF-0051",
+    "product_name": "CLUTCH BEARING 430-SELF CRB PRIMA EICHER PRO",
+    "categories": [
+      "CLUTCH BEARING"
+    ],
+    "specifications": {
+      "spec_1": "430-SELF CRB",
+      "spec_2": "PRIMA",
+      "spec_3": "EICHER PRO"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0051.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0051%20-%20CLUTCH%20BEARING%20430-SELF%20CRB%20PRIMA%20EICHER%20PRO"
+  },
+  {
+    "product_code": "INF-0052",
+    "product_name": "C3101 280.11 CLUTCH PLT 1109 TURBO",
+    "categories": [
+      "CLUTCH PLATE"
+    ],
+    "specifications": {
+      "spec_1": "C3101",
+      "spec_2": "280.11",
+      "spec_3": "1109 TURBO"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0052.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0052%20-%20C3101%20280.11%20CLUTCH%20PLT%201109%20TURBO"
+  },
+  {
+    "product_code": "INF-0053",
+    "product_name": "C3301 CLUTCH DISC 330 DIA. (2 RINGS) BS1/2/3/4",
+    "categories": [
+      "CLUTCH DISC"
+    ],
+    "specifications": {
+      "spec_1": "C3301",
+      "spec_2": "330",
+      "spec_3": "2 RINGS",
+      "model": "BS1/2/3/4"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0053.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0053%20-%20C3301%20CLUTCH%20DISC%20330%20DIA.%20(2%20RINGS)%20BS1%2F2%2F3%2F4"
+  },
+  {
+    "product_code": "INF-0054",
+    "product_name": "C3302 330 GB40 CLUTCH PLATE",
+    "categories": [
+      "CLUTCH PLATE"
+    ],
+    "specifications": {
+      "spec_1": "C3302",
+      "spec_2": "330",
+      "spec_3": "GB40"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0054.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0054%20-%20C3302%20330%20GB40%20CLUTCH%20PLATE"
+  },
+  {
+    "product_code": "INF-0055",
+    "product_name": "C3303 LEY E COMET EICHER CLUTCH PLATE",
+    "categories": [
+      "CLUTCH PLATE"
+    ],
+    "specifications": {
+      "spec_1": "C3303",
+      "brand": "LEY E COMET",
+      "spec_3": "EICHER"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0055.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0055%20-%20C3303%20LEY%20E%20COMET%20EICHER%20CLUTCH%20PLATE"
+  },
+  {
+    "product_code": "INF-0056",
+    "product_name": "C3304 EICHER CLUTCH PLATE",
+    "categories": [
+      "CLUTCH PLATE"
+    ],
+    "specifications": {
+      "spec_1": "C3304",
+      "spec_2": "EICHER"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0056.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0056%20-%20C3304%20EICHER%20CLUTCH%20PLATE"
+  },
+  {
+    "product_code": "INF-0057",
+    "product_name": "C3522 CLUTCH DISC 352 DIA. BS1/2/3/4",
+    "categories": [
+      "CLUTCH DISC"
+    ],
+    "specifications": {
+      "spec_1": "C3522",
+      "spec_2": "352",
+      "model": "BS1/2/3/4"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0057.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0057%20-%20C3522%20CLUTCH%20DISC%20352%20DIA.%20BS1%2F2%2F3%2F4"
+  },
+  {
+    "product_code": "INF-0058",
+    "product_name": "C3523 CLUTCH DISC 352 DIA.(ORGANIC) BS3/4",
+    "categories": [
+      "CLUTCH DISC"
+    ],
+    "specifications": {
+      "spec_1": "C3523",
+      "spec_2": "352",
+      "spec_3": "ORGANIC",
+      "model": "BS3/4"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0058.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0058%20-%20C3523%20CLUTCH%20DISC%20352%20DIA.(ORGANIC)%20BS3%2F4"
+  },
+  {
+    "product_code": "INF-0059",
+    "product_name": "C3524 LEY 14 PN CLUTCH PLATE B130 4201",
+    "categories": [
+      "CLUTCH PLATE"
+    ],
+    "specifications": {
+      "spec_1": "C3524",
+      "brand": "LEY",
+      "spec_3": "14",
+      "spec_4": "B130",
+      "spec_5": "4201"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0059.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0059%20-%20C3524%20LEY%2014%20PN%20CLUTCH%20PLATE%20B130%204201"
+  },
+  {
+    "product_code": "INF-0060",
+    "product_name": "C3801 380.15 GB75 CLUTCH PLT 2724 2520 0134 1.75",
+    "categories": [
+      "CLUTCH PLATE"
+    ],
+    "specifications": {
+      "spec_1": "C3801",
+      "spec_2": "380.15",
+      "spec_3": "GB75",
+      "spec_4": "2724",
+      "spec_5": "2520",
+      "spec_6": "0134",
+      "spec_7": "1.75"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0060.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0060%20-%20C3801%20380.15%20GB75%20CLUTCH%20PLT%202724%202520%200134%201.75"
+  },
+  {
+    "product_code": "INF-0061",
+    "product_name": "C3802 380 LEY AMW CLUTCH PLT",
+    "categories": [
+      "CLUTCH PLATE"
+    ],
+    "specifications": {
+      "spec_1": "C3802",
+      "spec_2": "380",
+      "brand": "LEY AMW"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0061.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0061%20-%20C3802%20380%20LEY%20AMW%20CLUTCH%20PLT"
+  },
+  {
+    "product_code": "INF-0062",
+    "product_name": "C3803 380 LEY PN CLUTCH PLT",
+    "categories": [
+      "CLUTCH PLATE"
+    ],
+    "specifications": {
+      "spec_1": "C3803",
+      "spec_2": "380",
+      "brand": "LEY PN"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0062.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0062%20-%20C3803%20380%20LEY%20PN%20CLUTCH%20PLT"
+  },
+  {
+    "product_code": "INF-0063",
+    "product_name": "C3804 380 CLUTCH PLT",
+    "categories": [
+      "CLUTCH PLATE"
+    ],
+    "specifications": {
+      "spec_1": "C3804",
+      "spec_2": "380"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0063.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0063%20-%20C3804%20380%20CLUTCH%20PLT"
+  },
+  {
+    "product_code": "INF-0064",
+    "product_name": "C3805 380 LEY PN CLUTCH PLT",
+    "categories": [
+      "CLUTCH PLATE"
+    ],
+    "specifications": {
+      "spec_1": "C3805",
+      "spec_2": "380",
+      "brand": "LEY PN"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0064.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0064%20-%20C3805%20380%20LEY%20PN%20CLUTCH%20PLT"
+  },
+  {
+    "product_code": "INF-0065",
+    "product_name": "C3806 LEY CLUTCH PLATE BS6 6 FAN",
+    "categories": [
+      "CLUTCH PLATE"
+    ],
+    "specifications": {
+      "spec_1": "C3806",
+      "brand": "LEY",
+      "model": "BS6",
+      "spec_4": "6 FAN"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0065.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0065%20-%20C3806%20LEY%20CLUTCH%20PLATE%20BS6%206%20FAN"
+  },
+  {
+    "product_code": "INF-0066",
+    "product_name": "C3951 395 CLUTCH PLT BHARAT BANZ ROUND",
+    "categories": [
+      "CLUTCH PLATE"
+    ],
+    "specifications": {
+      "spec_1": "C3951",
+      "spec_2": "395",
+      "brand": "BHARAT BANZ",
+      "spec_4": "ROUND"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0066.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0066%20-%20C3951%20395%20CLUTCH%20PLT%20BHARAT%20BANZ%20ROUND"
+  },
+  {
+    "product_code": "INF-0067",
+    "product_name": "C3952 395. CLUTCH FIT BS6 ROUND SIGNA MAN 1.75",
+    "categories": [
+      "CLUTCH"
+    ],
+    "specifications": {
+      "spec_1": "C3952",
+      "spec_2": "395",
+      "model": "BS6",
+      "spec_4": "ROUND",
+      "spec_5": "SIGNA MAN",
+      "spec_6": "1.75"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0067.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0067%20-%20C3952%20395.%20CLUTCH%20FIT%20BS6%20ROUND%20SIGNA%20MAN%201.75"
+  },
+  {
+    "product_code": "INF-0068",
+    "product_name": "C3953 395 CLUTCH PLATE NAVISTAR MAHINDRA 6801B AU 00012N",
+    "categories": [
+      "CLUTCH PLATE"
+    ],
+    "specifications": {
+      "spec_1": "C3953",
+      "spec_2": "395",
+      "brand": "MAHINDRA",
+      "spec_4": "6801B"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0068.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0068%20-%20C3953%20395%20CLUTCH%20PLATE%20NAVISTAR%20MAHINDRA%206801B%20AU%2000012N"
+  },
+  {
+    "product_code": "INF-0069",
+    "product_name": "C4301 430 CLUTCH PLT",
+    "categories": [
+      "CLUTCH PLATE"
+    ],
+    "specifications": {
+      "spec_1": "C4301",
+      "spec_2": "430"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0069.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0069%20-%20C4301%20430%20CLUTCH%20PLT"
+  },
+  {
+    "product_code": "INF-0070",
+    "product_name": "C4302 430 CLUTCH PLT",
+    "categories": [
+      "CLUTCH PLATE"
+    ],
+    "specifications": {
+      "spec_1": "C4302",
+      "spec_2": "430"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0070.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0070%20-%20C4302%20430%20CLUTCH%20PLT"
+  },
+  {
+    "product_code": "INF-0071",
+    "product_name": "C4303 430 CLUTCH PLT",
+    "categories": [
+      "CLUTCH PLATE"
+    ],
+    "specifications": {
+      "spec_1": "C4303",
+      "spec_2": "430"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0071.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0071%20-%20C4303%20430%20CLUTCH%20PLT"
+  },
+  {
+    "product_code": "INF-0072",
+    "product_name": "MAIN SHAFT 1109 COUNTER SHAFT",
+    "categories": [
+      "SHAFT"
+    ],
+    "specifications": {
+      "spec_1": "1109",
+      "type": "COUNTER SHAFT"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0072.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0072%20-%20MAIN%20SHAFT%201109%20COUNTER%20SHAFT"
+  },
+  {
+    "product_code": "INF-0073",
+    "product_name": "20T MAIN SHAFT 1109",
+    "categories": [
+      "SHAFT"
+    ],
+    "specifications": {
+      "teeth": "20T",
+      "spec_2": "1109"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0073.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0073%20-%2020T%20MAIN%20SHAFT%201109"
+  },
+  {
+    "product_code": "INF-0074",
+    "product_name": "TOP SHAFT 8TH 23T 1109/1613",
+    "categories": [
+      "SHAFT"
+    ],
+    "specifications": {
+      "spec_1": "8TH",
+      "teeth": "23T",
+      "spec_3": "1109",
+      "spec_4": "1613"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0074.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0074%20-%20TOP%20SHAFT%208TH%2023T%201109%2F1613"
+  },
+  {
+    "product_code": "INF-0075",
+    "product_name": "TOP SHAFT 8TH 25T 1109/1613",
+    "categories": [
+      "SHAFT"
+    ],
+    "specifications": {
+      "spec_1": "8TH",
+      "teeth": "25T",
+      "spec_3": "1109",
+      "spec_4": "1613"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0075.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0075%20-%20TOP%20SHAFT%208TH%2025T%201109%2F1613"
+  },
+  {
+    "product_code": "INF-0076",
+    "product_name": "1109 SLEEVE 3RD 4TH /7TH SPEED",
+    "categories": [
+      "SLEEVE"
+    ],
+    "specifications": {
+      "spec_1": "1109",
+      "spec_2": "3RD 4TH",
+      "spec_3": "7TH SPEED"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0076.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0076%20-%201109%20SLEEVE%203RD%204TH%20%2F7TH%20SPEED"
+  },
+  {
+    "product_code": "INF-0077",
+    "product_name": "1109 SLEEVE 5TH/8TH",
+    "categories": [
+      "SLEEVE"
+    ],
+    "specifications": {
+      "spec_1": "1109",
+      "spec_2": "5TH",
+      "spec_3": "8TH"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0077.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0077%20-%201109%20SLEEVE%205TH%2F8TH"
+  },
+  {
+    "product_code": "INF-0078",
+    "product_name": "1109 SLEEVE 7TH 8TH PER SPL",
+    "categories": [
+      "SLEEVE"
+    ],
+    "specifications": {
+      "spec_1": "1109",
+      "spec_2": "7TH 8TH",
+      "spec_3": "PER SPL"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0078.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0078%20-%201109%20SLEEVE%207TH%208TH%20PER%20SPL"
+  },
+  {
+    "product_code": "INF-0079",
+    "product_name": "TATA 1109 SLEEVE 3RD/4TH",
+    "categories": [
+      "SLEEVE"
+    ],
+    "specifications": {
+      "brand": "TATA",
+      "spec_2": "1109",
+      "spec_3": "3RD",
+      "spec_4": "4TH"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0079.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0079%20-%20TATA%201109%20SLEEVE%203RD%2F4TH"
+  },
+  {
+    "product_code": "INF-0080",
+    "product_name": "407 MAIN SHAFT",
+    "categories": [
+      "SHAFT"
+    ],
+    "specifications": {
+      "spec_1": "407"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0080.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0080%20-%20407%20MAIN%20SHAFT"
+  },
+  {
+    "product_code": "INF-0081",
+    "product_name": "407 TOP SHAFT",
+    "categories": [
+      "SHAFT"
+    ],
+    "specifications": {
+      "spec_1": "407"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0081.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0081%20-%20407%20TOP%20SHAFT"
+  },
+  {
+    "product_code": "INF-0082",
+    "product_name": "407 SLEEVE",
+    "categories": [
+      "SLEEVE"
+    ],
+    "specifications": {
+      "spec_1": "407"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0082.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0082%20-%20407%20SLEEVE"
+  },
+  {
+    "product_code": "INF-0083",
+    "product_name": "DIFF CAGE 1209 / 1613 / 1109",
+    "categories": [
+      "DIFF CAGE"
+    ],
+    "specifications": {
+      "spec_1": "1209",
+      "spec_2": "1613",
+      "spec_3": "1109"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0083.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0083%20-%20DIFF%20CAGE%201209%20%2F%201613%20%2F%201109"
+  },
+  {
+    "product_code": "INF-0084",
+    "product_name": "DIFF CAGE 407/709/909",
+    "categories": [
+      "DIFF CAGE"
+    ],
+    "specifications": {
+      "spec_1": "407",
+      "spec_2": "709",
+      "spec_3": "909"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0084.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0084%20-%20DIFF%20CAGE%20407%2F709%2F909"
+  },
+  {
+    "product_code": "INF-0085",
+    "product_name": "707 OE COUNTER SHAFT 16T 23T 28T",
+    "categories": [
+      "SHAFT"
+    ],
+    "specifications": {
+      "spec_1": "707 OE",
+      "teeth": "28T"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0085.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0085%20-%20707%20OE%20COUNTER%20SHAFT%2016T%2023T%2028T"
+  },
+  {
+    "product_code": "INF-0086",
+    "product_name": "707 OE MAIN SHAFT 25T 33T 36T",
+    "categories": [
+      "SHAFT"
+    ],
+    "specifications": {
+      "spec_1": "707 OE",
+      "teeth": "36T"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0086.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0086%20-%20707%20OE%20MAIN%20SHAFT%2025T%2033T%2036T"
+  },
+  {
+    "product_code": "INF-0087",
+    "product_name": "707 OE TOP SHAFT 17T",
+    "categories": [
+      "SHAFT"
+    ],
+    "specifications": {
+      "spec_1": "707 OE",
+      "teeth": "17T"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0087.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0087%20-%20707%20OE%20TOP%20SHAFT%2017T"
+  },
+  {
+    "product_code": "INF-0088",
+    "product_name": "EICHER E4 / E6 CROSS PIN",
+    "categories": [
+      "CROSS PIN"
+    ],
+    "specifications": {
+      "model": "E6"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0088.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0088%20-%20EICHER%20E4%20%2F%20E6%20CROSS%20PIN"
+  },
+  {
+    "product_code": "INF-0089",
+    "product_name": "EICHER E5 / E6 DIFF SPIDER PIN",
+    "categories": [
+      "SPIDER PIN"
+    ],
+    "specifications": {
+      "model": "E6"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0089.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0089%20-%20EICHER%20E5%20%2F%20E6%20DIFF%20SPIDER%20PIN"
+  },
+  {
+    "product_code": "INF-0090",
+    "product_name": "ASHOK LEYLAND CROSS",
+    "categories": [
+      "CROSS"
+    ],
+    "specifications": {
+      "brand": "ASHOK LEYLAND"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0090.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0090%20-%20ASHOK%20LEYLAND%20CROSS"
+  },
+  {
+    "product_code": "INF-0091",
+    "product_name": "ASHOK LEYLAND SPIDER",
+    "categories": [
+      "SPIDER"
+    ],
+    "specifications": {
+      "brand": "ASHOK LEYLAND"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0091.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0091%20-%20ASHOK%20LEYLAND%20SPIDER"
+  },
+  {
+    "product_code": "INF-0092",
+    "product_name": "TATA CROSS",
+    "categories": [
+      "CROSS"
+    ],
+    "specifications": {
+      "brand": "TATA"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0092.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0092%20-%20TATA%20CROSS"
+  },
+  {
+    "product_code": "INF-0093",
+    "product_name": "TATA SPIDER",
+    "categories": [
+      "SPIDER"
+    ],
+    "specifications": {
+      "brand": "TATA"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0093.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0093%20-%20TATA%20SPIDER"
+  },
+  {
+    "product_code": "INF-0094",
+    "product_name": "850 OE 20T COUNTER SHAFT",
+    "categories": [
+      "SHAFT"
+    ],
+    "specifications": {
+      "spec_1": "850 OE",
+      "teeth": "20T",
+      "type": "COUNTER SHAFT"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0094.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0094%20-%20850%20OE%2020T%20COUNTER%20SHAFT"
+  },
+  {
+    "product_code": "INF-0095",
+    "product_name": "850 OE 16T 6SPL MAIN SHAFT",
+    "categories": [
+      "SHAFT"
+    ],
+    "specifications": {
+      "spec_1": "850 OE",
+      "teeth": "16T",
+      "spec_3": "6SPL"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0095.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0095%20-%20850%20OE%2016T%206SPL%20MAIN%20SHAFT"
+  },
+  {
+    "product_code": "INF-0096",
+    "product_name": "850 OE 20T TOP SHAFT F3319311 OM 12903 0250 LONG SEAT",
+    "categories": [
+      "SHAFT"
+    ],
+    "specifications": {
+      "spec_1": "850 OE",
+      "teeth": "20T",
+      "spec_3": "F3319311",
+      "type": "LONG SEAT"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0096.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0096%20-%20850%20OE%2020T%20TOP%20SHAFT%20F3319311%20OM%2012903%200250%20LONG%20SEAT"
+  },
+  {
+    "product_code": "INF-0097",
+    "product_name": "850 OE 23T 4TH SPEED GEAR M/S 203.16 F1614511",
+    "categories": [
+      "GEAR"
+    ],
+    "specifications": {
+      "spec_1": "850 OE",
+      "teeth": "23T",
+      "spec_3": "4TH SPEED",
+      "spec_4": "203.16"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0097.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0097%20-%20850%20OE%2023T%204TH%20SPEED%20GEAR%20M%2FS%20203.16%20F1614511"
+  },
+  {
+    "product_code": "INF-0098",
+    "product_name": "850 OE 25T 3RD SPEED GEAR GRIND F161441",
+    "categories": [
+      "GEAR"
+    ],
+    "specifications": {
+      "spec_1": "850 OE",
+      "teeth": "25T",
+      "spec_3": "3RD SPEED",
+      "spec_4": "GRIND"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0098.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0098%20-%20850%20OE%2025T%203RD%20SPEED%20GEAR%20GRIND%20F161441"
+  },
+  {
+    "product_code": "INF-0099",
+    "product_name": "850 OE 31T C/S TWIN GEAR F1651311",
+    "categories": [
+      "GEAR"
+    ],
+    "specifications": {
+      "spec_1": "850 OE",
+      "teeth": "31T",
+      "spec_3": "C/S TWIN"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0099.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0099%20-%20850%20OE%2031T%20C%2FS%20TWIN%20GEAR%20F1651311"
+  },
+  {
+    "product_code": "INF-0100",
+    "product_name": "850 OE 48T SPILIT GEAR F1613611 C/S",
+    "categories": [
+      "GEAR"
+    ],
+    "specifications": {
+      "spec_1": "850 OE",
+      "teeth": "48T",
+      "spec_3": "SPILIT",
+      "spec_4": "C/S"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0100.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0100%20-%20850%20OE%2048T%20SPILIT%20GEAR%20F1613611%20C%2FS"
+  },
+  {
+    "product_code": "INF-0101",
+    "product_name": "850 SLEEVE 5TH/6TH F1600510",
+    "categories": [
+      "SLEEVE"
+    ],
+    "specifications": {
+      "spec_1": "850",
+      "spec_2": "5TH",
+      "spec_3": "6TH",
+      "spec_4": "F1600510"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0101.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0101%20-%20850%20SLEEVE%205TH%2F6TH%20F1600510"
+  },
+  {
+    "product_code": "INF-0102",
+    "product_name": "8X41 RH 2726 3530 0174",
+    "categories": [
+      "AXLE SHAFT"
+    ],
+    "specifications": {
+      "size": "8X41 RH",
+      "spec_2": "2726",
+      "spec_3": "3530",
+      "spec_4": "0174"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0102.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0102%20-%208X41%20RH%202726%203530%200174"
+  },
+  {
+    "product_code": "INF-0103",
+    "product_name": "8X43 BHARAT BENZ",
+    "categories": [
+      "AXLE SHAFT"
+    ],
+    "specifications": {
+      "size": "8X43",
+      "brand": "BHARAT BENZ"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0103.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0103%20-%208X43%20BHARAT%20BENZ"
+  },
+  {
+    "product_code": "INF-0104",
+    "product_name": "950 PTO PLATE ALUMINUM (MANDIR) CLOSE 5830 2630 3801",
+    "categories": [
+      "PTO PLATE"
+    ],
+    "specifications": {
+      "spec_1": "950",
+      "spec_2": "ALUMINUM",
+      "spec_3": "MANDIR",
+      "spec_4": "CLOSE",
+      "spec_5": "5830",
+      "spec_6": "2630",
+      "spec_7": "3801"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0104.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0104%20-%20950%20PTO%20PLATE%20ALUMINUM%20(MANDIR)%20CLOSE%205830%202630%203801"
+  },
+  {
+    "product_code": "INF-0105",
+    "product_name": "950 PTO PLATE OPEN ALUMINIUM",
+    "categories": [
+      "PTO PLATE"
+    ],
+    "specifications": {
+      "spec_1": "950",
+      "spec_2": "ALUMINIUM",
+      "spec_3": "PLATE OPEN"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0105.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0105%20-%20950%20PTO%20PLATE%20OPEN%20ALUMINIUM"
+  },
+  {
+    "product_code": "INF-0106",
+    "product_name": "AXLE 46x10x40",
+    "categories": [
+      "AXLE"
+    ],
+    "specifications": {
+      "spec_1": "46x10x40"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0106.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0106%20-%20AXLE%2046x10x40"
+  },
+  {
+    "product_code": "INF-0107",
+    "product_name": "AXLE 46X10X42",
+    "categories": [
+      "AXLE"
+    ],
+    "specifications": {
+      "size": "46X10X42"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0107.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0107%20-%20AXLE%2046X10X42"
+  },
+  {
+    "product_code": "INF-0108",
+    "product_name": "AXLE 46x10x45",
+    "categories": [
+      "AXLE"
+    ],
+    "specifications": {
+      "spec_1": "46x10x45"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0108.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0108%20-%20AXLE%2046x10x45"
+  },
+  {
+    "product_code": "INF-0109",
+    "product_name": "AXLE 46X12X45",
+    "categories": [
+      "AXLE"
+    ],
+    "specifications": {
+      "size": "46X12X45"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0109.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0109%20-%20AXLE%2046X12X45"
+  },
+  {
+    "product_code": "INF-0110",
+    "product_name": "AXLE 46X8X42",
+    "categories": [
+      "AXLE"
+    ],
+    "specifications": {
+      "size": "46X8X42"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0110.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0110%20-%20AXLE%2046X8X42"
+  },
+  {
+    "product_code": "INF-0111",
+    "product_name": "AXLE 46X8X40",
+    "categories": [
+      "AXLE"
+    ],
+    "specifications": {
+      "size": "46X8X40"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0111.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0111%20-%20AXLE%2046X8X40"
+  },
+  {
+    "product_code": "INF-0112",
+    "product_name": "AXLE 46X8X45",
+    "categories": [
+      "AXLE"
+    ],
+    "specifications": {
+      "size": "46X8X45"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0112.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0112%20-%20AXLE%2046X8X45"
+  },
+  {
+    "product_code": "INF-0113",
+    "product_name": "AXLE 46X12X40",
+    "categories": [
+      "AXLE"
+    ],
+    "specifications": {
+      "size": "46X12X40"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0113.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0113%20-%20AXLE%2046X12X40"
+  },
+  {
+    "product_code": "INF-0114",
+    "product_name": "AXLE 709 PART NO:- 2661 3570 7902 31TX8HUBX35L",
+    "categories": [
+      "AXLE"
+    ],
+    "specifications": {
+      "spec_1": "709",
+      "spec_2": "2661",
+      "spec_3": "3570",
+      "spec_4": "7902",
+      "size": "31TX8HUBX35L"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0114.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0114%20-%20AXLE%20709%20PART%20NO:-%202661%203570%207902%2031TX8HUBX35L"
+  },
+  {
+    "product_code": "INF-0115",
+    "product_name": "AXLE 1109 / PART NO:- 2730 3570 7901 / 38TX35HUBX37L",
+    "categories": [
+      "AXLE"
+    ],
+    "specifications": {
+      "spec_1": "1109",
+      "spec_2": "2730",
+      "spec_3": "3570",
+      "spec_4": "7901",
+      "size": "38TX35HUBX37L"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0115.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0115%20-%20AXLE%201109%20%2F%20PART%20NO:-%202730%203570%207901%20%2F%2038TX35HUBX37L"
+  },
+  {
+    "product_code": "INF-0116",
+    "product_name": "AXLE 1612/ PART NO:- 2575 3570 7902 / 40TX42HUBX39.50L",
+    "categories": [
+      "AXLE"
+    ],
+    "specifications": {
+      "spec_1": "1612",
+      "spec_2": "2575",
+      "spec_3": "3570",
+      "spec_4": "7902",
+      "size": "40TX42HUBX39.50L"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0116.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0116%20-%20AXLE%201612%2F%20PART%20NO:-%202575%203570%207902%20%2F%2040TX42HUBX39.50L"
+  },
+  {
+    "product_code": "INF-0117",
+    "product_name": "AXLE 407 / 2665 3570 7902 23TX6HUBX36L",
+    "categories": [
+      "AXLE"
+    ],
+    "specifications": {
+      "spec_1": "407",
+      "spec_2": "2665",
+      "spec_3": "3570",
+      "spec_4": "7902",
+      "size": "23TX6HUBX36L"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0117.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0117%20-%20AXLE%20407%20%2F%202665%203570%207902%2023TX6HUBX36L"
+  },
+  {
+    "product_code": "INF-0118",
+    "product_name": "AXLE 909 / 2661 3570 7903 31TX8HUBX36.5L",
+    "categories": [
+      "AXLE"
+    ],
+    "specifications": {
+      "spec_1": "909",
+      "spec_2": "2661",
+      "spec_3": "3570",
+      "spec_4": "7903",
+      "size": "31TX8HUBX36.5L"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0118.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0118%20-%20AXLE%20909%20%2F%202661%203570%207903%2031TX8HUBX36.5L"
+  },
+  {
+    "product_code": "INF-0119",
+    "product_name": "AXLE ALTRA 5836 3570 7901 / 26TX38HUBX41L",
+    "categories": [
+      "AXLE"
+    ],
+    "specifications": {
+      "spec_1": "ALTRA",
+      "spec_2": "5836",
+      "spec_3": "3570",
+      "spec_4": "7901",
+      "size": "26TX38HUBX41L"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0119.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0119%20-%20AXLE%20ALTRA%205836%203570%207901%20%2F%2026TX38HUBX41L"
+  },
+  {
+    "product_code": "INF-0120",
+    "product_name": "AXLE 2726 3570 7903P 43.5",
+    "categories": [
+      "AXLE"
+    ],
+    "specifications": {
+      "spec_1": "2726",
+      "spec_2": "3570",
+      "spec_3": "7903P",
+      "spec_4": "43.5"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0120.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0120%20-%20AXLE%202726%203570%207903P%2043.5"
+  },
+  {
+    "product_code": "INF-0121",
+    "product_name": "AXLE 2726 3570 7916",
+    "categories": [
+      "AXLE"
+    ],
+    "specifications": {
+      "spec_1": "2726",
+      "spec_2": "3570",
+      "spec_3": "7916"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0121.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0121%20-%20AXLE%202726%203570%207916"
+  },
+  {
+    "product_code": "INF-0122",
+    "product_name": "AXLE 2726 3570 7919 -42 (LASER)",
+    "categories": [
+      "AXLE"
+    ],
+    "specifications": {
+      "spec_1": "2726",
+      "spec_2": "3570",
+      "spec_3": "7919",
+      "spec_4": "-42",
+      "spec_5": "LASER"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0122.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0122%20-%20AXLE%202726%203570%207919%20-42%20(LASER)"
+  },
+  {
+    "product_code": "INF-0123",
+    "product_name": "AXLE 2726 3570 7920 41 LASER",
+    "categories": [
+      "AXLE"
+    ],
+    "specifications": {
+      "spec_1": "2726",
+      "spec_2": "3570",
+      "spec_3": "7920",
+      "spec_4": "41",
+      "spec_5": "LASER"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0123.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0123%20-%20AXLE%202726%203570%207920%2041%20LASER"
+  },
+  {
+    "product_code": "INF-0124",
+    "product_name": "AXLE 2726 3570 7921 (STUB)",
+    "categories": [
+      "AXLE"
+    ],
+    "specifications": {
+      "spec_1": "2726",
+      "spec_2": "3570",
+      "spec_3": "7921",
+      "spec_4": "STUB"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0124.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0124%20-%20AXLE%202726%203570%207921%20(STUB)"
+  },
+  {
+    "product_code": "INF-0125",
+    "product_name": "AXLE 2726 3570 7921 LEZER",
+    "categories": [
+      "AXLE"
+    ],
+    "specifications": {
+      "spec_1": "2726",
+      "spec_2": "3570",
+      "spec_3": "7921",
+      "spec_4": "LEZER"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0125.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0125%20-%20AXLE%202726%203570%207921%20LEZER"
+  },
+  {
+    "product_code": "INF-0126",
+    "product_name": "AXLE 5810 3570 7905",
+    "categories": [
+      "AXLE"
+    ],
+    "specifications": {
+      "spec_1": "5810",
+      "spec_2": "3570",
+      "spec_3": "7905"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0126.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0126%20-%20AXLE%205810%203570%207905"
+  },
+  {
+    "product_code": "INF-0127",
+    "product_name": "AXLE 5829 3570 7910, 50T",
+    "categories": [
+      "AXLE"
+    ],
+    "specifications": {
+      "spec_1": "5829",
+      "spec_2": "3570",
+      "spec_3": "7910",
+      "teeth": "50T"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0127.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0127%20-%20AXLE%205829%203570%207910,%2050T"
+  },
+  {
+    "product_code": "INF-0128",
+    "product_name": "ARM (Y) 5101",
+    "categories": [
+      "ARM"
+    ],
+    "specifications": {
+      "spec_1": "Y",
+      "spec_2": "5101"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0128.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0128%20-%20ARM%20(Y)%205101"
+  },
+  {
+    "product_code": "INF-0129",
+    "product_name": "ARM (Y) TYPE 5137",
+    "categories": [
+      "ARM"
+    ],
+    "specifications": {
+      "spec_1": "Y TYPE",
+      "spec_2": "5137"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0129.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0129%20-%20ARM%20(Y)%20TYPE%205137"
+  },
+  {
+    "product_code": "INF-0130",
+    "product_name": "ARM 5102 MEDIUM (Y) TYPE 5102",
+    "categories": [
+      "ARM"
+    ],
+    "specifications": {
+      "spec_1": "5102",
+      "spec_2": "MEDIUM",
+      "spec_3": "Y TYPE"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0130.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0130%20-%20ARM%205102%20MEDIUM%20(Y)%20TYPE%205102"
+  },
+  {
+    "product_code": "INF-0131",
+    "product_name": "ARM 5103",
+    "categories": [
+      "ARM"
+    ],
+    "specifications": {
+      "spec_1": "5103"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0131.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0131%20-%20ARM%205103"
+  },
+  {
+    "product_code": "INF-0132",
+    "product_name": "ARM 5104",
+    "categories": [
+      "ARM"
+    ],
+    "specifications": {
+      "spec_1": "5104"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0132.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0132%20-%20ARM%205104"
+  },
+  {
+    "product_code": "INF-0133",
+    "product_name": "ARM 5105",
+    "categories": [
+      "ARM"
+    ],
+    "specifications": {
+      "spec_1": "5105"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0133.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0133%20-%20ARM%205105"
+  },
+  {
+    "product_code": "INF-0134",
+    "product_name": "ARM 5127",
+    "categories": [
+      "ARM"
+    ],
+    "specifications": {
+      "spec_1": "5127"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0134.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0134%20-%20ARM%205127"
+  },
+  {
+    "product_code": "INF-0135",
+    "product_name": "ARM 5128",
+    "categories": [
+      "ARM"
+    ],
+    "specifications": {
+      "spec_1": "5128"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0135.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0135%20-%20ARM%205128"
+  },
+  {
+    "product_code": "INF-0136",
+    "product_name": "ARM 5131",
+    "categories": [
+      "ARM"
+    ],
+    "specifications": {
+      "spec_1": "5131"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0136.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0136%20-%20ARM%205131"
+  },
+  {
+    "product_code": "INF-0137",
+    "product_name": "ARM 5132",
+    "categories": [
+      "ARM"
+    ],
+    "specifications": {
+      "spec_1": "5132"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0137.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0137%20-%20ARM%205132"
+  },
+  {
+    "product_code": "INF-0138",
+    "product_name": "ARM Y 5133",
+    "categories": [
+      "ARM"
+    ],
+    "specifications": {
+      "spec_1": "Y",
+      "spec_2": "5133"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0138.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0138%20-%20ARM%20Y%205133"
+  },
+  {
+    "product_code": "INF-0139",
+    "product_name": "ARM (Y) 5135/ 2846 3380 5135",
+    "categories": [
+      "ARM"
+    ],
+    "specifications": {
+      "spec_1": "Y",
+      "spec_2": "5135",
+      "spec_3": "2846",
+      "spec_4": "3380"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0139.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0139%20-%20ARM%20(Y)%205135%2F%202846%203380%205135"
+  },
+  {
+    "product_code": "INF-0140",
+    "product_name": "ARM POWER STREEING",
+    "categories": [
+      "ARM"
+    ],
+    "specifications": {
+      "spec_1": "POWER STREEING"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0140.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0140%20-%20ARM%20POWER%20STREEING"
+  },
+  {
+    "product_code": "INF-0141",
+    "product_name": "BEARING 805097",
+    "categories": [
+      "BEARING"
+    ],
+    "specifications": {
+      "spec_1": "805097"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0141.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0141%20-%20BEARING%20805097"
+  },
+  {
+    "product_code": "INF-0142",
+    "product_name": "BOGI BUSH LEYLAND",
+    "categories": [
+      "BUSH"
+    ],
+    "specifications": {
+      "spec_1": "BOGI",
+      "brand": "LEYLAND"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0142.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0142%20-%20BOGI%20BUSH%20LEYLAND"
+  },
+  {
+    "product_code": "INF-0143",
+    "product_name": "BRACKET STG GEAR BOX /- 4105 4670 3301",
+    "categories": [
+      "BRACKET"
+    ],
+    "specifications": {
+      "spec_1": "STG GEAR BOX",
+      "spec_2": "4105",
+      "spec_3": "4670",
+      "spec_4": "3301"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0143.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0143%20-%20BRACKET%20STG%20GEAR%20BOX%20%2F-%204105%204670%203301"
+  },
+  {
+    "product_code": "INF-0144",
+    "product_name": "BRACKET STG GEAR BOX MTG /- 2846 4660 3303",
+    "categories": [
+      "BRACKET"
+    ],
+    "specifications": {
+      "spec_1": "STG GEAR BOX MTG",
+      "spec_2": "2846",
+      "spec_3": "4660",
+      "spec_4": "3303"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0144.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0144%20-%20BRACKET%20STG%20GEAR%20BOX%20MTG%20%2F-%202846%204660%203303"
+  },
+  {
+    "product_code": "INF-0145",
+    "product_name": "BRACKET STG GEAR BOX MTG /- 2846 4670 3306",
+    "categories": [
+      "BRACKET"
+    ],
+    "specifications": {
+      "spec_1": "STG GEAR BOX MTG",
+      "spec_2": "2846",
+      "spec_3": "4670",
+      "spec_4": "3306"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0145.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0145%20-%20BRACKET%20STG%20GEAR%20BOX%20MTG%20%2F-%202846%204670%203306"
+  },
+  {
+    "product_code": "INF-0146",
+    "product_name": "ASSY DRIVE SHAFT 18T/23T/10SPL/L322 R8.4 2691 2625 0154",
+    "categories": [
+      "DRIVE SHAFT"
+    ],
+    "specifications": {
+      "teeth": "23T",
+      "spec_2": "10SPL",
+      "spec_3": "L322",
+      "spec_4": "R8.4",
+      "spec_5": "2691",
+      "spec_6": "2625",
+      "spec_7": "0154"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0146.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0146%20-%20ASSY%20DRIVE%20SHAFT%2018T%2F23T%2F10SPL%2FL322%20R8.4%202691%202625%200154"
+  },
+  {
+    "product_code": "INF-0147",
+    "product_name": "ASSY. BRACKET STG. GEAR BOX MTG. BS3/4/6 /- 2846 4670 3316",
+    "categories": [
+      "BRACKET"
+    ],
+    "specifications": {
+      "spec_1": "STG GEAR BOX MTG",
+      "model": "BS3/4/6",
+      "spec_3": "2846",
+      "spec_4": "4670",
+      "spec_5": "3316"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0147.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0147%20-%20ASSY.%20BRACKET%20STG.%20GEAR%20BOX%20MTG.%20BS3%2F4%2F6%20%2F-%202846%204670%203316"
+  },
+  {
+    "product_code": "INF-0148",
+    "product_name": "ASSY. DIFF. HOUSING (9X14 GEARS) BS3/4/6 \u2013 14 TYER",
+    "categories": [
+      "HOUSING"
+    ],
+    "specifications": {
+      "spec_1": "DIFF",
+      "size": "9X14",
+      "model": "BS3/4/6",
+      "spec_4": "14 TYER"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0148.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0148%20-%20ASSY.%20DIFF.%20HOUSING%20(9X14%20GEARS)%20BS3%2F4%2F6%20\u2013%2014%20TYER"
+  },
+  {
+    "product_code": "INF-0149",
+    "product_name": "ADAPTOR PTO (INTERPUMP) 2715 2640 3706",
+    "categories": [
+      "ADAPTOR"
+    ],
+    "specifications": {
+      "spec_1": "PTO",
+      "spec_2": "INTERPUMP",
+      "spec_3": "2715",
+      "spec_4": "2640",
+      "spec_5": "3706"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0149.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0149%20-%20ADAPTOR%20PTO%20(INTERPUMP)%202715%202640%203706"
+  },
+  {
+    "product_code": "INF-0150",
+    "product_name": "A 1110 9S 4TH 5TH TOP 1324 304 011 166 5511",
+    "categories": [
+      "SHAFT COMPONENTS"
+    ],
+    "specifications": {
+      "spec_1": "1110 9S",
+      "spec_2": "4TH 5TH TOP",
+      "spec_3": "1324",
+      "spec_4": "304",
+      "spec_5": "011",
+      "spec_6": "166",
+      "spec_7": "5511"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0150.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0150%20-%20A%201110%209S%204TH%205TH%20TOP%201324%20304%20011%20166%205511"
+  },
+  {
+    "product_code": "INF-0151",
+    "product_name": "A 1110 9S 4TOP STEEL RING FD900 21 1255 01304 304 683 6968",
+    "categories": [
+      "STEEL RING"
+    ],
+    "specifications": {
+      "spec_1": "1110 9S",
+      "spec_2": "4TOP",
+      "spec_3": "FD900 21",
+      "spec_4": "1255",
+      "spec_5": "01304"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0151.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0151%20-%20A%201110%209S%204TOP%20STEEL%20RING%20FD900%2021%201255%2001304%20304%20683%206968"
+  },
+  {
+    "product_code": "INF-0152",
+    "product_name": "A 1110 9S ZF 4TH TOP SLEEVE F166 5711",
+    "categories": [
+      "SLEEVE"
+    ],
+    "specifications": {
+      "brand": "1110 9S ZF",
+      "spec_2": "4TH TOP",
+      "spec_3": "F166 5711"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0152.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0152%20-%20A%201110%209S%20ZF%204TH%20TOP%20SLEEVE%20F166%205711"
+  },
+  {
+    "product_code": "INF-0153",
+    "product_name": "A 1110 9S ZF HYLO FIX BODY PLATE RING",
+    "categories": [
+      "PLATE RING"
+    ],
+    "specifications": {
+      "brand": "1110 9S ZF",
+      "spec_2": "HYLO",
+      "spec_3": "FIX BODY"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0153.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0153%20-%20A%201110%209S%20ZF%20HYLO%20FIX%20BODY%20PLATE%20RING"
+  },
+  {
+    "product_code": "INF-0154",
+    "product_name": "A1110 9S 2ND 3RD FIX BODY F166 5411",
+    "categories": [
+      "FIX BODY"
+    ],
+    "specifications": {
+      "spec_1": "1110 9S",
+      "spec_2": "2ND 3RD",
+      "spec_3": "F166 5411"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0154.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0154%20-%20A1110%209S%202ND%203RD%20FIX%20BODY%20F166%205411"
+  },
+  {
+    "product_code": "INF-0155",
+    "product_name": "CLUTCH PLATE 280 LEY OE",
+    "categories": [
+      "CLUTCH PLATE"
+    ],
+    "specifications": {
+      "spec_1": "280",
+      "brand": "LEY OE"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0155.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0155%20-%20CLUTCH%20PLATE%20280%20LEY%20OE"
+  },
+  {
+    "product_code": "INF-0156",
+    "product_name": "CLUTCH PLATE 330 LEY OE",
+    "categories": [
+      "CLUTCH PLATE"
+    ],
+    "specifications": {
+      "spec_1": "330",
+      "brand": "LEY OE"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0156.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0156%20-%20CLUTCH%20PLATE%20330%20LEY%20OE"
+  },
+  {
+    "product_code": "INF-0157",
+    "product_name": "CLUTCH PLATE 352 LEY OE",
+    "categories": [
+      "CLUTCH PLATE"
+    ],
+    "specifications": {
+      "spec_1": "352",
+      "brand": "LEY OE"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0157.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0157%20-%20CLUTCH%20PLATE%20352%20LEY%20OE"
+  },
+  {
+    "product_code": "INF-0158",
+    "product_name": "CLUTCH PLATE 380 LEY OE",
+    "categories": [
+      "CLUTCH PLATE"
+    ],
+    "specifications": {
+      "spec_1": "380",
+      "brand": "LEY OE"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0158.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0158%20-%20CLUTCH%20PLATE%20380%20LEY%20OE"
+  },
+  {
+    "product_code": "INF-0159",
+    "product_name": "CLUTCH PLATE 395 LEY OE",
+    "categories": [
+      "CLUTCH PLATE"
+    ],
+    "specifications": {
+      "spec_1": "395",
+      "brand": "LEY OE"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0159.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0159%20-%20CLUTCH%20PLATE%20395%20LEY%20OE"
+  },
+  {
+    "product_code": "INF-0160",
+    "product_name": "CLUTCH PLATE 430 LEY OE",
+    "categories": [
+      "CLUTCH PLATE"
+    ],
+    "specifications": {
+      "spec_1": "430",
+      "brand": "LEY OE"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0160.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0160%20-%20CLUTCH%20PLATE%20430%20LEY%20OE"
+  },
+  {
+    "product_code": "INF-0161",
+    "product_name": "PTO SHAFT 12X26 EATON",
+    "categories": [
+      "PTO SHAFT"
+    ],
+    "specifications": {
+      "size": "12X26",
+      "brand": "EATON"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0161.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0161%20-%20PTO%20SHAFT%2012X26%20EATON"
+  },
+  {
+    "product_code": "INF-0162",
+    "product_name": "PTO SHAFT 14X12 ZF",
+    "categories": [
+      "PTO SHAFT"
+    ],
+    "specifications": {
+      "size": "14X12",
+      "brand": "ZF"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0162.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0162%20-%20PTO%20SHAFT%2014X12%20ZF"
+  },
+  {
+    "product_code": "INF-0163",
+    "product_name": "PTO SHAFT 13X24T 1150",
+    "categories": [
+      "PTO SHAFT"
+    ],
+    "specifications": {
+      "size": "13X24T",
+      "spec_2": "1150"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0163.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0163%20-%20PTO%20SHAFT%2013X24T%201150"
+  },
+  {
+    "product_code": "INF-0164",
+    "product_name": "DIFF SPIDER GEAR 9X14",
+    "categories": [
+      "DIFF GEAR"
+    ],
+    "specifications": {
+      "size": "9X14",
+      "spec_2": "SPIDER"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0164.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0164%20-%20DIFF%20SPIDER%20GEAR%209X14"
+  },
+  {
+    "product_code": "INF-0165",
+    "product_name": "DIFF SPIDER GEAR 10X16",
+    "categories": [
+      "DIFF GEAR"
+    ],
+    "specifications": {
+      "size": "10X16",
+      "spec_2": "SPIDER"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0165.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0165%20-%20DIFF%20SPIDER%20GEAR%2010X16"
+  },
+  {
+    "product_code": "INF-0166",
+    "product_name": "DIFF CROSS 9X14",
+    "categories": [
+      "DIFF CROSS"
+    ],
+    "specifications": {
+      "size": "9X14"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0166.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0166%20-%20DIFF%20CROSS%209X14"
+  },
+  {
+    "product_code": "INF-0167",
+    "product_name": "DIFF CROSS 10X16",
+    "categories": [
+      "DIFF CROSS"
+    ],
+    "specifications": {
+      "size": "10X16"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0167.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0167%20-%20DIFF%20CROSS%2010X16"
+  },
+  {
+    "product_code": "INF-0168",
+    "product_name": "COUNTER SHAFT GEAR 31T",
+    "categories": [
+      "GEAR"
+    ],
+    "specifications": {
+      "teeth": "31T",
+      "type": "COUNTER SHAFT"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0168.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0168%20-%20COUNTER%20SHAFT%20GEAR%2031T"
+  },
+  {
+    "product_code": "INF-0169",
+    "product_name": "COUNTER SHAFT GEAR 48T",
+    "categories": [
+      "GEAR"
+    ],
+    "specifications": {
+      "teeth": "48T",
+      "type": "COUNTER SHAFT"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0169.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0169%20-%20COUNTER%20SHAFT%20GEAR%2048T"
+  },
+  {
+    "product_code": "INF-0170",
+    "product_name": "MAIN SHAFT GEAR 25T",
+    "categories": [
+      "GEAR"
+    ],
+    "specifications": {
+      "teeth": "25T",
+      "spec_2": "MAIN SHAFT"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0170.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0170%20-%20MAIN%20SHAFT%20GEAR%2025T"
+  },
+  {
+    "product_code": "INF-0171",
+    "product_name": "MAIN SHAFT GEAR 33T",
+    "categories": [
+      "GEAR"
+    ],
+    "specifications": {
+      "teeth": "33T",
+      "spec_2": "MAIN SHAFT"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0171.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0171%20-%20MAIN%20SHAFT%20GEAR%2033T"
+  },
+  {
+    "product_code": "INF-0172",
+    "product_name": "TOP SHAFT GEAR 17T",
+    "categories": [
+      "GEAR"
+    ],
+    "specifications": {
+      "teeth": "17T",
+      "spec_2": "TOP SHAFT"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0172.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0172%20-%20TOP%20SHAFT%20GEAR%2017T"
+  },
+  {
+    "product_code": "INF-0173",
+    "product_name": "TOP SHAFT GEAR 20T",
+    "categories": [
+      "GEAR"
+    ],
+    "specifications": {
+      "teeth": "20T",
+      "spec_2": "TOP SHAFT"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0173.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0173%20-%20TOP%20SHAFT%20GEAR%2020T"
+  },
+  {
+    "product_code": "INF-0174",
+    "product_name": "TOP SHAFT GEAR 23T",
+    "categories": [
+      "GEAR"
+    ],
+    "specifications": {
+      "teeth": "23T",
+      "spec_2": "TOP SHAFT"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0174.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0174%20-%20TOP%20SHAFT%20GEAR%2023T"
+  },
+  {
+    "product_code": "INF-0175",
+    "product_name": "SLEEVE 3RD 4TH SPEED",
+    "categories": [
+      "SLEEVE"
+    ],
+    "specifications": {
+      "spec_1": "3RD 4TH",
+      "spec_2": "SPEED"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0175.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0175%20-%20SLEEVE%203RD%204TH%20SPEED"
+  },
+  {
+    "product_code": "INF-0176",
+    "product_name": "SLEEVE 5TH 6TH SPEED",
+    "categories": [
+      "SLEEVE"
+    ],
+    "specifications": {
+      "spec_1": "5TH 6TH",
+      "spec_2": "SPEED"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0176.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0176%20-%20SLEEVE%205TH%206TH%20SPEED"
+  },
+  {
+    "product_code": "INF-0177",
+    "product_name": "SLEEVE 7TH 8TH SPEED",
+    "categories": [
+      "SLEEVE"
+    ],
+    "specifications": {
+      "spec_1": "7TH 8TH",
+      "spec_2": "SPEED"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0177.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0177%20-%20SLEEVE%207TH%208TH%20SPEED"
+  },
+  {
+    "product_code": "INF-0178",
+    "product_name": "PINION 6X35 250 BM28",
+    "categories": [
+      "PINION"
+    ],
+    "specifications": {
+      "size": "6X35",
+      "spec_2": "250",
+      "model": "BM28"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0178.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0178%20-%20PINION%206X35%20250%20BM28"
+  },
+  {
+    "product_code": "INF-0179",
+    "product_name": "PINION 6X37 464NG",
+    "categories": [
+      "PINION"
+    ],
+    "specifications": {
+      "size": "6X37",
+      "spec_2": "464NG"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0179.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0179%20-%20PINION%206X37%20464NG"
+  },
+  {
+    "product_code": "INF-0180",
+    "product_name": "PINION 6X39 576 BM39",
+    "categories": [
+      "PINION"
+    ],
+    "specifications": {
+      "size": "6X39",
+      "spec_2": "576",
+      "model": "BM39"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0180.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0180%20-%20PINION%206X39%20576%20BM39"
+  },
+  {
+    "product_code": "INF-0181",
+    "product_name": "PINION 6X41 466 BM28",
+    "categories": [
+      "PINION"
+    ],
+    "specifications": {
+      "size": "6X41",
+      "spec_2": "466",
+      "model": "BM28"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0181.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0181%20-%20PINION%206X41%20466%20BM28"
+  },
+  {
+    "product_code": "INF-0182",
+    "product_name": "PINION 7X41 41670",
+    "categories": [
+      "PINION"
+    ],
+    "specifications": {
+      "size": "7X41",
+      "spec_2": "41670"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0182.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0182%20-%20PINION%207X41%2041670"
+  },
+  {
+    "product_code": "INF-0183",
+    "product_name": "PINION 7X43",
+    "categories": [
+      "PINION"
+    ],
+    "specifications": {
+      "size": "7X43"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0183.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0183%20-%20PINION%207X43"
+  },
+  {
+    "product_code": "INF-0184",
+    "product_name": "CLUTCH BEARING 380 SELF",
+    "categories": [
+      "CLUTCH BEARING"
+    ],
+    "specifications": {
+      "spec_1": "380",
+      "spec_2": "SELF"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0184.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0184%20-%20CLUTCH%20BEARING%20380%20SELF"
+  },
+  {
+    "product_code": "INF-0185",
+    "product_name": "CLUTCH BEARING 430 PRIMA",
+    "categories": [
+      "CLUTCH BEARING"
+    ],
+    "specifications": {
+      "spec_1": "430",
+      "spec_2": "PRIMA"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0185.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0185%20-%20CLUTCH%20BEARING%20430%20PRIMA"
+  },
+  {
+    "product_code": "INF-0186",
+    "product_name": "CLUTCH BEARING 395 BHARAT BENZ",
+    "categories": [
+      "CLUTCH BEARING"
+    ],
+    "specifications": {
+      "spec_1": "395",
+      "brand": "BHARAT BENZ"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0186.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0186%20-%20CLUTCH%20BEARING%20395%20BHARAT%20BENZ"
+  },
+  {
+    "product_code": "INF-0187",
+    "product_name": "PTO GEAR 22X8",
+    "categories": [
+      "PTO GEAR"
+    ],
+    "specifications": {
+      "size": "22X8"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0187.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0187%20-%20PTO%20GEAR%2022X8"
+  },
+  {
+    "product_code": "INF-0188",
+    "product_name": "PTO GEAR 19X8",
+    "categories": [
+      "PTO GEAR"
+    ],
+    "specifications": {
+      "size": "19X8"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0188.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0188%20-%20PTO%20GEAR%2019X8"
+  },
+  {
+    "product_code": "INF-0189",
+    "product_name": "PTO GEAR 11X6",
+    "categories": [
+      "PTO GEAR"
+    ],
+    "specifications": {
+      "size": "11X6"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0189.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0189%20-%20PTO%20GEAR%2011X6"
+  },
+  {
+    "product_code": "INF-0190",
+    "product_name": "PTO GEAR 10X6",
+    "categories": [
+      "PTO GEAR"
+    ],
+    "specifications": {
+      "size": "10X6"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0190.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0190%20-%20PTO%20GEAR%2010X6"
+  },
+  {
+    "product_code": "INF-0191",
+    "product_name": "PTO GEAR 29X12",
+    "categories": [
+      "PTO GEAR"
+    ],
+    "specifications": {
+      "size": "29X12"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0191.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0191%20-%20PTO%20GEAR%2029X12"
+  },
+  {
+    "product_code": "INF-0192",
+    "product_name": "PTO GEAR 29X17",
+    "categories": [
+      "PTO GEAR"
+    ],
+    "specifications": {
+      "size": "29X17"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0192.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0192%20-%20PTO%20GEAR%2029X17"
+  },
+  {
+    "product_code": "INF-0193",
+    "product_name": "PTO GEAR 25X10",
+    "categories": [
+      "PTO GEAR"
+    ],
+    "specifications": {
+      "size": "25X10"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0193.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0193%20-%20PTO%20GEAR%2025X10"
+  },
+  {
+    "product_code": "INF-0194",
+    "product_name": "SPLINE BUSH 6",
+    "categories": [
+      "BUSH"
+    ],
+    "specifications": {
+      "type": "SPLINE",
+      "spec_2": "6"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0194.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0194%20-%20SPLINE%20BUSH%206"
+  },
+  {
+    "product_code": "INF-0195",
+    "product_name": "SPLINE BUSH 24T",
+    "categories": [
+      "BUSH"
+    ],
+    "specifications": {
+      "type": "SPLINE",
+      "teeth": "24T"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0195.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0195%20-%20SPLINE%20BUSH%2024T"
+  },
+  {
+    "product_code": "INF-0196",
+    "product_name": "GEAR BOX HOUSING G1150",
+    "categories": [
+      "GEAR BOX"
+    ],
+    "specifications": {
+      "spec_1": "HOUSING",
+      "model": "G1150"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0196.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0196%20-%20GEAR%20BOX%20HOUSING%20G1150"
+  },
+  {
+    "product_code": "INF-0197",
+    "product_name": "FLYWHEEL HOUSING BS3",
+    "categories": [
+      "FLYWHEEL HOUSING"
+    ],
+    "specifications": {
+      "model": "BS3"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0197.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0197%20-%20FLYWHEEL%20HOUSING%20BS3"
+  },
+  {
+    "product_code": "INF-0198",
+    "product_name": "FLYWHEEL HOUSING BS4",
+    "categories": [
+      "FLYWHEEL HOUSING"
+    ],
+    "specifications": {
+      "model": "BS4"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0198.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0198%20-%20FLYWHEEL%20HOUSING%20BS4"
+  },
+  {
+    "product_code": "INF-0199",
+    "product_name": "FLYWHEEL HOUSING BS6",
+    "categories": [
+      "FLYWHEEL HOUSING"
+    ],
+    "specifications": {
+      "model": "BS6"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0199.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0199%20-%20FLYWHEEL%20HOUSING%20BS6"
+  },
+  {
+    "product_code": "INF-0200",
+    "product_name": "BOGI BS4 WITH PIN",
+    "categories": [
+      "BOGI"
+    ],
+    "specifications": {
+      "model": "BS4",
+      "spec_2": "WITH PIN"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0200.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0200%20-%20BOGI%20BS4%20WITH%20PIN"
+  },
+  {
+    "product_code": "INF-0201",
+    "product_name": "BOGI BS4 OUT PIN",
+    "categories": [
+      "BOGI"
+    ],
+    "specifications": {
+      "model": "BS4",
+      "spec_2": "OUT PIN"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0201.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0201%20-%20BOGI%20BS4%20OUT%20PIN"
+  },
+  {
+    "product_code": "INF-0202",
+    "product_name": "BOGI BS6 PLANE",
+    "categories": [
+      "BOGI"
+    ],
+    "specifications": {
+      "model": "BS6",
+      "spec_2": "PLANE"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0202.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0202%20-%20BOGI%20BS6%20PLANE"
+  },
+  {
+    "product_code": "INF-0203",
+    "product_name": "AXLE RING SET",
+    "categories": [
+      "AXLE"
+    ],
+    "specifications": {
+      "spec_1": "RING SET"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0203.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0203%20-%20AXLE%20RING%20SET"
   }
 ]
