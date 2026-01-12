@@ -14,13 +14,13 @@ export const Header = () => {
       {/* Desktop Header */}
       <header className="sticky top-0 z-50 w-full border-b border-border bg-background hidden md:block">
         <div className="container mx-auto">
-          <div className="flex h-20 items-center justify-between px-4">
-            {/* Logo */}
+          <div className="flex h-24 items-center justify-between px-4">
+            {/* Logo - Large on Desktop */}
             <Link to="/" className="flex items-center">
               <img 
                 src="/infinity-logo.png" 
                 alt="Infinity Auto Parts" 
-                className="h-16 w-auto object-contain"
+                className="h-20 w-auto object-contain"
               />
             </Link>
 
