@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent } from '@/components/ui/card';
-import { ShieldCheck, Truck, Settings, Disc, Box, Circle, Hexagon, Layers } from 'lucide-react';
+import { ShieldCheck, Truck, Settings, Disc, Box, Circle, Hexagon, Layers, Package } from 'lucide-react';
 import { RequestProductButton } from '@/components/RequestProductButton';
 
 export const Home = () => {
