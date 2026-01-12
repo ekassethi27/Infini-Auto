@@ -25,7 +25,7 @@ export const ProductDetail = () => {
   }
 
   return (
-    <div className="min-h-screen bg-background pb-20 md:pb-0">
+    <div className="min-h-screen bg-background pt-28 md:pt-0">
       <div className="container mx-auto px-4 py-8">
         <Button asChild variant="ghost" className="mb-6">
           <Link to="/products">
