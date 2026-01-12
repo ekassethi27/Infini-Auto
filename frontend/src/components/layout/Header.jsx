@@ -95,6 +95,15 @@ export const Header = () => {
                 Products
               </Link>
               <Link
+                to="/about"
+                className={`text-sm font-medium ${
+                  isActive('/about') ? 'text-primary' : 'text-foreground'
+                }`}
+                onClick={() => setMobileMenuOpen(false)}
+              >
+                About Us
+              </Link>
+              <Link
                 to="/contact"
                 className={`text-sm font-medium ${
                   isActive('/contact') ? 'text-primary' : 'text-foreground'
