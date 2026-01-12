@@ -46,7 +46,7 @@ export const Home = () => {
               <img 
                 src="/infinity-logo.png" 
                 alt="Infinity Auto Parts" 
-                className="h-40 md:h-48 lg:h-56 w-auto object-contain drop-shadow-2xl"
+                className="h-68 md:h-80 lg:h-96 w-auto object-contain drop-shadow-2xl"
               />
             </div>
 
