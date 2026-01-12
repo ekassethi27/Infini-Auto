@@ -22,7 +22,7 @@ export const Home = () => {
   ];
 
   return (
-    <div className="min-h-screen">
+    <div className="min-h-screen pb-20 md:pb-0">
       <section className="bg-gradient-to-b from-secondary to-background">
         <div className="container mx-auto px-4 py-20 md:py-28">
           <div className="max-w-3xl mx-auto text-center">
