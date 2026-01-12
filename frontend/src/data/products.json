@@ -1,0 +1,119 @@
+[
+  {
+    "product_code": "INF-0001",
+    "product_name": "6X35 PINION 250 / BM28",
+    "categories": ["PINION"],
+    "specifications": {
+      "size": "6X35",
+      "teeth": "250",
+      "model": "BM28"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0001.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0001%20-%206X35%20PINION%20250%20/%20BM28"
+  },
+  {
+    "product_code": "INF-0002",
+    "product_name": "29X12 PZB ETON",
+    "categories": ["PZB", "ETON"],
+    "specifications": {
+      "size": "29X12"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0002.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0002%20-%2029X12%20PZB%20ETON"
+  },
+  {
+    "product_code": "INF-0003",
+    "product_name": "PTO GEAR 29X12 TEEPAR LEY",
+    "categories": ["PTO GEAR"],
+    "specifications": {
+      "size": "29X12",
+      "brand": "TEEPAR LEY"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0003.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0003%20-%20PTO%20GEAR%2029X12%20TEEPAR%20LEY"
+  },
+  {
+    "product_code": "INF-0004",
+    "product_name": "PTO GEAR 29X17 LONG 1616 TATA",
+    "categories": ["PTO GEAR"],
+    "specifications": {
+      "size": "29X17",
+      "type": "LONG",
+      "model": "1616",
+      "brand": "TATA"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0004.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0004%20-%20PTO%20GEAR%2029X17%20LONG%201616%20TATA"
+  },
+  {
+    "product_code": "INF-0005",
+    "product_name": "PTO GEAR 29X17 SHOT EATON",
+    "categories": ["PTO GEAR"],
+    "specifications": {
+      "size": "29X17",
+      "type": "SHOT",
+      "brand": "EATON"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0005.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0005%20-%20PTO%20GEAR%2029X17%20SHOT%20EATON"
+  },
+  {
+    "product_code": "INF-0006",
+    "product_name": "1150 PTO SHAFT MADHANI ROD 13X24T",
+    "categories": ["PTO SHAFT"],
+    "specifications": {
+      "model": "1150",
+      "type": "MADHANI ROD",
+      "size": "13X24T"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0006.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0006%20-%201150%20PTO%20SHAFT%20MADHANI%20ROD%2013X24T"
+  },
+  {
+    "product_code": "INF-0007",
+    "product_name": "EATON ZF PTO SAHFT 14X12 ZF 1130 9S",
+    "categories": ["PTO SHAFT"],
+    "specifications": {
+      "brand": "EATON ZF",
+      "size": "14X12",
+      "model": "ZF 1130 9S"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0007.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0007%20-%20EATON%20ZF%20PTO%20SAHFT%2014X12%20ZF%201130%209S"
+  },
+  {
+    "product_code": "INF-0008",
+    "product_name": "1150 GEAR MADHANI 24X12 CUPPLER SMALL",
+    "categories": ["GEAR"],
+    "specifications": {
+      "model": "1150",
+      "type": "CUPPLER SMALL",
+      "size": "24X12"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0008.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0008%20-%201150%20GEAR%20MADHANI%2024X12%20CUPPLER%20SMALL"
+  },
+  {
+    "product_code": "INF-0009",
+    "product_name": "75 PTO GEAR 25X10 COUNTER HELICAL",
+    "categories": ["PTO GEAR"],
+    "specifications": {
+      "model": "75",
+      "type": "COUNTER HELICAL",
+      "size": "25X10"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0009.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0009%20-%2075%20PTO%20GEAR%2025X10%20COUNTER%20HELICAL"
+  },
+  {
+    "product_code": "INF-0010",
+    "product_name": "PTO PZB 6 SPLINE BUSH",
+    "categories": ["PTO", "PZB", "BUSH"],
+    "specifications": {
+      "spline": "6",
+      "type": "SPLINE BUSH"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0010.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0010%20-%20PTO%20PZB%206%20SPLINE%20BUSH"
+  }
+]
