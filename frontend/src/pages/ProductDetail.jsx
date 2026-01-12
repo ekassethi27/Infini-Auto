@@ -87,9 +87,9 @@ export const ProductDetail = () => {
             )}
 
             <div className="space-y-4">
-              <Button asChild size="lg" className="w-full">
-                <a href={product.whatsapp_url} target="_blank" rel="noopener noreferrer">
-                  <MessageCircle size={20} className="mr-2" />
+              <Button asChild size="lg" className="w-full bg-[#25D366] hover:bg-[#20BD5A] text-white">
+                <a href={product.whatsapp_url} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 justify-center">
+                  <img src="/whatsapp-icon.svg" alt="WhatsApp" className="w-5 h-5 brightness-0 invert" />
                   Enquire on WhatsApp
                 </a>
               </Button>
@@ -99,6 +99,10 @@ export const ProductDetail = () => {
               </p>
             </div>
           </div>
+        </div>
+        
+        <div className="mt-12">
+          <RequestProductButton />
         </div>
       </div>
     </div>
