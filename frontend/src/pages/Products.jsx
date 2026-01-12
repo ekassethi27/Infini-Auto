@@ -53,11 +53,22 @@ const getCategoryIcon = (category) => {
 };
 
 export const Products = () => {
+  const [searchParams] = useSearchParams();
+  const categoryFromUrl = searchParams.get('category');
+  
   const [searchTerm, setSearchTerm] = useState('');
-  const [selectedCategory, setSelectedCategory] = useState('All');
+  const [selectedCategory, setSelectedCategory] = useState(categoryFromUrl || 'All');
   const [currentPage, setCurrentPage] = useState(1);
   const [mobileFilterOpen, setMobileFilterOpen] = useState(false);
   const productsPerPage = 12;
+
+  // Update selected category when URL param changes
+  useEffect(() => {
+    if (categoryFromUrl) {
+      setSelectedCategory(categoryFromUrl);
+      setCurrentPage(1);
+    }
+  }, [categoryFromUrl]);
 
   const allCategories = useMemo(() => {
     const categories = new Set();
