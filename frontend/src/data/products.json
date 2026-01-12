@@ -108,12 +108,237 @@
   {
     "product_code": "INF-0010",
     "product_name": "PTO PZB 6 SPLINE BUSH",
-    "categories": ["PTO", "PZB", "BUSH"],
+    "categories": ["PTO", "BUSH"],
     "specifications": {
       "spline": "6",
       "type": "SPLINE BUSH"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0010.png",
     "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0010%20-%20PTO%20PZB%206%20SPLINE%20BUSH"
+  },
+  {
+    "product_code": "INF-0011",
+    "product_name": "24T SPLINE BUSH",
+    "categories": ["BUSH"],
+    "specifications": {
+      "teeth": "24T",
+      "type": "SPLINE BUSH"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0011.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0011%20-%2024T%20SPLINE%20BUSH"
+  },
+  {
+    "product_code": "INF-0012",
+    "product_name": "1150 PTO ZF BIG 12X8",
+    "categories": ["PTO"],
+    "specifications": {
+      "model": "1150",
+      "brand": "ZF",
+      "type": "BIG",
+      "size": "12X8"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0012.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0012%20-%201150%20PTO%20ZF%20BIG%2012X8"
+  },
+  {
+    "product_code": "INF-0013",
+    "product_name": "PTO 12X8 ZF SMALL L55",
+    "categories": ["PTO"],
+    "specifications": {
+      "size": "12X8",
+      "brand": "ZF",
+      "type": "SMALL",
+      "model": "L55"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0013.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0013%20-%20PTO%2012X8%20ZF%20SMALL%20L55"
+  },
+  {
+    "product_code": "INF-0014",
+    "product_name": "22X8 PTO GEAR PZB",
+    "categories": ["PTO GEAR"],
+    "specifications": {
+      "size": "22X8",
+      "type": "PZB"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0014.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0014%20-%2022X8%20PTO%20GEAR%20PZB"
+  },
+  {
+    "product_code": "INF-0015",
+    "product_name": "PTO GEAR 19X8 SMALL GEAR",
+    "categories": ["PTO GEAR"],
+    "specifications": {
+      "size": "19X8",
+      "type": "SMALL GEAR"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0015.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0015%20-%20PTO%20GEAR%2019X8%20SMALL%20GEAR"
+  },
+  {
+    "product_code": "INF-0016",
+    "product_name": "PTO COUNTER GEAR SMALL 10X6 HELICAL",
+    "categories": ["PTO GEAR"],
+    "specifications": {
+      "type": "COUNTER GEAR SMALL HELICAL",
+      "size": "10X6"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0016.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0016%20-%20PTO%20COUNTER%20GEAR%20SMALL%2010X6%20HELICAL"
+  },
+  {
+    "product_code": "INF-0017",
+    "product_name": "PTO 11X6 SAMLL GEAR",
+    "categories": ["PTO GEAR"],
+    "specifications": {
+      "size": "11X6",
+      "type": "SMALL GEAR"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0017.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0017%20-%20PTO%2011X6%20SAMLL%20GEAR"
+  },
+  {
+    "product_code": "INF-0018",
+    "product_name": "EATON PTO LEY SMALL 12X26 PATLA",
+    "categories": ["PTO"],
+    "specifications": {
+      "brand": "EATON LEY",
+      "type": "SMALL",
+      "size": "12X26",
+      "model": "PATLA"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0018.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0018%20-%20EATON%20PTO%20LEY%20SMALL%2012X26%20PATLA"
+  },
+  {
+    "product_code": "INF-0019",
+    "product_name": "GEAR BOX G1150 HOUSING",
+    "categories": ["GEAR BOX"],
+    "specifications": {
+      "model": "G1150",
+      "type": "HOUSING"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0019.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0019%20-%20GEAR%20BOX%20G1150%20HOUSING"
+  },
+  {
+    "product_code": "INF-0020",
+    "product_name": "BOGI BS4 OUTPIN",
+    "categories": ["BOGI"],
+    "specifications": {
+      "type": "OUTPIN",
+      "model": "BS4"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0020.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0020%20-%20BOGI%20BS4%20OUTPIN"
+  },
+  {
+    "product_code": "INF-0021",
+    "product_name": "BOGI BS4 WITHPIN",
+    "categories": ["BOGI"],
+    "specifications": {
+      "type": "WITHPIN",
+      "model": "BS4"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0021.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0021%20-%20BOGI%20BS4%20WITHPIN"
+  },
+  {
+    "product_code": "INF-0022",
+    "product_name": "BOGI BS6",
+    "categories": ["BOGI"],
+    "specifications": {
+      "model": "BS6"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0022.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0022%20-%20BOGI%20BS6"
+  },
+  {
+    "product_code": "INF-0023",
+    "product_name": "BOGI BS6 PLANE HOURSE",
+    "categories": ["BOGI"],
+    "specifications": {
+      "model": "BS6",
+      "type": "PLANE HOURSE"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0023.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0023%20-%20BOGI%20BS6%20PLANE%20HOURSE"
+  },
+  {
+    "product_code": "INF-0024",
+    "product_name": "FLYWHEEL HOUSING BS3/BS4",
+    "categories": ["FLYWHEEL HOUSING"],
+    "specifications": {
+      "model": "BS3/BS4"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0024.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0024%20-%20FLYWHEEL%20HOUSING%20BS3/BS4"
+  },
+  {
+    "product_code": "INF-0025",
+    "product_name": "6X39 PINION 576 / BM39 NGP",
+    "categories": ["PINION"],
+    "specifications": {
+      "size": "6X39",
+      "teeth": "576",
+      "model": "BM39 NGP"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0025.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0025%20-%206X39%20PINION%20576%20/%20BM39%20NGP"
+  },
+  {
+    "product_code": "INF-0026",
+    "product_name": "6X39 PINION 0BM39",
+    "categories": ["PINION"],
+    "specifications": {
+      "size": "6X39",
+      "model": "0BM39"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0026.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0026%20-%206X39%20PINION%200BM39"
+  },
+  {
+    "product_code": "INF-0027",
+    "product_name": "6X37 PINION",
+    "categories": ["PINION"],
+    "specifications": {
+      "size": "6X37"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0027.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0027%20-%206X37%20PINION"
+  },
+  {
+    "product_code": "INF-0028",
+    "product_name": "6X37 PINION 464NG / BE22NG",
+    "categories": ["PINION"],
+    "specifications": {
+      "size": "6X37",
+      "model": "464NG / BE22NG"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0028.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0028%20-%206X37%20PINION%20464NG%20/%20BE22NG"
+  },
+  {
+    "product_code": "INF-0029",
+    "product_name": "6X35 PINION 408NG / BM35",
+    "categories": ["PINION"],
+    "specifications": {
+      "size": "6X35",
+      "model": "408NG / BM35"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0029.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0029%20-%206X35%20PINION%20408NG%20/%20BM35"
+  },
+  {
+    "product_code": "INF-0030",
+    "product_name": "4395F 6X35 PINION NGF",
+    "categories": ["PINION"],
+    "specifications": {
+      "model": "4395F",
+      "size": "6X35",
+      "type": "NGF"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0030.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0030%20-%204395F%206X35%20PINION%20NGF"
   }
 ]
