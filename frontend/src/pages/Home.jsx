@@ -75,7 +75,7 @@ export const Home = () => {
 
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
             {categories.map((category, index) => (
-              <Link key={index} to="/products" className="group">
+              <Link key={index} to={`/products?category=${encodeURIComponent(category.name)}`} className="group">
                 <Card className="card-hover h-full">
                   <CardContent className="flex flex-col items-center justify-center p-6 text-center h-full">
                     <category.icon size={32} className="text-primary mb-3 group-hover:scale-110 transition-transform" />
