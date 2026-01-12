@@ -23,14 +23,25 @@ export const Home = () => {
 
   return (
     <div className="min-h-screen pb-20 md:pb-0">
-      <section className="bg-gradient-to-b from-secondary to-background">
-        <div className="container mx-auto px-4 py-20 md:py-28">
+      {/* Hero Section with Logo Background */}
+      <section className="relative bg-gradient-to-b from-secondary to-background overflow-hidden">
+        {/* Background Logo */}
+        <div className="absolute inset-0 flex items-center justify-center opacity-5 pointer-events-none">
+          <img 
+            src="/infinity-logo.png" 
+            alt="" 
+            className="w-full max-w-4xl h-auto object-contain"
+          />
+        </div>
+        
+        {/* Content */}
+        <div className="relative container mx-auto px-4 py-20 md:py-28">
           <div className="max-w-3xl mx-auto text-center">
             <div className="flex justify-center mb-8">
               <img 
                 src="/infinity-logo.png" 
                 alt="Infinity Auto Parts" 
-                className="h-32 w-auto object-contain"
+                className="h-32 w-auto object-contain drop-shadow-lg"
               />
             </div>
             <p className="text-lg sm:text-xl text-muted-foreground mb-8 leading-relaxed">
@@ -40,8 +51,9 @@ export const Home = () => {
               <Button asChild size="lg" className="text-base">
                 <Link to="/products">Browse Parts</Link>
               </Button>
-              <Button asChild size="lg" variant="outline" className="text-base">
-                <a href="https://wa.me/919871094466" target="_blank" rel="noopener noreferrer">
+              <Button asChild size="lg" className="bg-[#25D366] hover:bg-[#20BD5A] text-white">
+                <a href="https://wa.me/919871094466" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
+                  <img src="/whatsapp-icon.svg" alt="WhatsApp" className="w-5 h-5 brightness-0 invert" />
                   WhatsApp Enquiry
                 </a>
               </Button>
