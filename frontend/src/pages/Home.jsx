@@ -2,22 +2,22 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent } from '@/components/ui/card';
-import { Package, ShieldCheck, Truck } from 'lucide-react';
+import { ShieldCheck, Truck, Settings, Disc, Box, Circle, Hexagon, Layers } from 'lucide-react';
 
 export const Home = () => {
   const categories = [
-    { name: 'Pinion', count: '40+', icon: Package },
-    { name: 'PTO Gear', count: '35+', icon: Package },
-    { name: 'Clutch Bearing', count: '25+', icon: Package },
-    { name: 'Clutch Plate', count: '30+', icon: Package },
-    { name: 'Axle', count: '45+', icon: Package },
-    { name: 'Gear Box', count: '20+', icon: Package },
+    { name: 'Pinion', count: '40+', icon: Settings },
+    { name: 'PTO Gear', count: '35+', icon: Settings },
+    { name: 'Clutch Bearing', count: '25+', icon: Circle },
+    { name: 'Clutch Plate', count: '30+', icon: Disc },
+    { name: 'Axle', count: '45+', icon: Hexagon },
+    { name: 'Gear Box', count: '20+', icon: Box },
   ];
 
   const trustFeatures = [
     { icon: Truck, text: 'Fast Dispatch' },
     { icon: ShieldCheck, text: 'Quality Checked' },
-    { icon: Package, text: 'Bulk Orders' },
+    { icon: Layers, text: 'Bulk Orders' },
   ];
 
   return (
