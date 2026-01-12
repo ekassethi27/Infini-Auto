@@ -5,6 +5,7 @@ import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
 import { ArrowLeft, MessageCircle } from 'lucide-react';
 import productsData from '@/data/products.json';
+import { RequestProductButton } from '@/components/RequestProductButton';
 
 export const ProductDetail = () => {
   const { productCode } = useParams();
