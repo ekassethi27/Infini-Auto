@@ -2,19 +2,24 @@
   {
     "product_code": "INF-0001",
     "product_name": "6X35 PINION 250 / BM28",
-    "categories": ["PINION"],
+    "categories": [
+      "PINION"
+    ],
     "specifications": {
       "size": "6X35",
       "teeth": "250",
       "model": "BM28"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0001.png",
-    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0001%20-%206X35%20PINION%20250%20/%20BM28"
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0001%20-%206X35%20PINION%20250%20%2F%20BM28"
   },
   {
     "product_code": "INF-0002",
     "product_name": "29X12 PZB ETON",
-    "categories": ["PZB", "ETON"],
+    "categories": [
+      "PZB",
+      "ETON"
+    ],
     "specifications": {
       "size": "29X12"
     },
@@ -24,7 +29,9 @@
   {
     "product_code": "INF-0003",
     "product_name": "PTO GEAR 29X12 TEEPAR LEY",
-    "categories": ["PTO GEAR"],
+    "categories": [
+      "PTO GEAR"
+    ],
     "specifications": {
       "size": "29X12",
       "brand": "TEEPAR LEY"
@@ -35,7 +42,9 @@
   {
     "product_code": "INF-0004",
     "product_name": "PTO GEAR 29X17 LONG 1616 TATA",
-    "categories": ["PTO GEAR"],
+    "categories": [
+      "PTO GEAR"
+    ],
     "specifications": {
       "size": "29X17",
       "type": "LONG",
@@ -48,7 +57,9 @@
   {
     "product_code": "INF-0005",
     "product_name": "PTO GEAR 29X17 SHOT EATON",
-    "categories": ["PTO GEAR"],
+    "categories": [
+      "PTO GEAR"
+    ],
     "specifications": {
       "size": "29X17",
       "type": "SHOT",
@@ -60,7 +71,9 @@
   {
     "product_code": "INF-0006",
     "product_name": "1150 PTO SHAFT MADHANI ROD 13X24T",
-    "categories": ["PTO SHAFT"],
+    "categories": [
+      "PTO SHAFT"
+    ],
     "specifications": {
       "model": "1150",
       "type": "MADHANI ROD",
@@ -72,7 +85,9 @@
   {
     "product_code": "INF-0007",
     "product_name": "EATON ZF PTO SAHFT 14X12 ZF 1130 9S",
-    "categories": ["PTO SHAFT"],
+    "categories": [
+      "PTO SHAFT"
+    ],
     "specifications": {
       "brand": "EATON ZF",
       "size": "14X12",
@@ -84,7 +99,9 @@
   {
     "product_code": "INF-0008",
     "product_name": "1150 GEAR MADHANI 24X12 CUPPLER SMALL",
-    "categories": ["GEAR"],
+    "categories": [
+      "GEAR"
+    ],
     "specifications": {
       "model": "1150",
       "type": "CUPPLER SMALL",
@@ -96,7 +113,9 @@
   {
     "product_code": "INF-0009",
     "product_name": "75 PTO GEAR 25X10 COUNTER HELICAL",
-    "categories": ["PTO GEAR"],
+    "categories": [
+      "PTO GEAR"
+    ],
     "specifications": {
       "model": "75",
       "type": "COUNTER HELICAL",
@@ -108,7 +127,10 @@
   {
     "product_code": "INF-0010",
     "product_name": "PTO PZB 6 SPLINE BUSH",
-    "categories": ["PTO", "BUSH"],
+    "categories": [
+      "PTO",
+      "BUSH"
+    ],
     "specifications": {
       "spline": "6",
       "type": "SPLINE BUSH"
@@ -119,7 +141,9 @@
   {
     "product_code": "INF-0011",
     "product_name": "24T SPLINE BUSH",
-    "categories": ["BUSH"],
+    "categories": [
+      "BUSH"
+    ],
     "specifications": {
       "teeth": "24T",
       "type": "SPLINE BUSH"
@@ -130,7 +154,9 @@
   {
     "product_code": "INF-0012",
     "product_name": "1150 PTO ZF BIG 12X8",
-    "categories": ["PTO"],
+    "categories": [
+      "PTO"
+    ],
     "specifications": {
       "model": "1150",
       "brand": "ZF",
@@ -143,7 +169,9 @@
   {
     "product_code": "INF-0013",
     "product_name": "PTO 12X8 ZF SMALL L55",
-    "categories": ["PTO"],
+    "categories": [
+      "PTO"
+    ],
     "specifications": {
       "size": "12X8",
       "brand": "ZF",
@@ -156,7 +184,9 @@
   {
     "product_code": "INF-0014",
     "product_name": "22X8 PTO GEAR PZB",
-    "categories": ["PTO GEAR"],
+    "categories": [
+      "PTO GEAR"
+    ],
     "specifications": {
       "size": "22X8",
       "type": "PZB"
@@ -167,7 +197,9 @@
   {
     "product_code": "INF-0015",
     "product_name": "PTO GEAR 19X8 SMALL GEAR",
-    "categories": ["PTO GEAR"],
+    "categories": [
+      "PTO GEAR"
+    ],
     "specifications": {
       "size": "19X8",
       "type": "SMALL GEAR"
@@ -178,7 +210,9 @@
   {
     "product_code": "INF-0016",
     "product_name": "PTO COUNTER GEAR SMALL 10X6 HELICAL",
-    "categories": ["PTO GEAR"],
+    "categories": [
+      "PTO GEAR"
+    ],
     "specifications": {
       "type": "COUNTER GEAR SMALL HELICAL",
       "size": "10X6"
@@ -188,24 +222,27 @@
   },
   {
     "product_code": "INF-0017",
-    "product_name": "PTO 11X6 SAMLL GEAR",
-    "categories": ["PTO GEAR"],
+    "product_name": "PTO 11X6 SMALL GEAR",
+    "categories": [
+      "PTO GEAR"
+    ],
     "specifications": {
       "size": "11X6",
       "type": "SMALL GEAR"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0017.png",
-    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0017%20-%20PTO%2011X6%20SAMLL%20GEAR"
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0017%20-%20PTO%2011X6%20SMALL%20GEAR"
   },
   {
     "product_code": "INF-0018",
     "product_name": "EATON PTO LEY SMALL 12X26 PATLA",
-    "categories": ["PTO"],
+    "categories": [
+      "PTO"
+    ],
     "specifications": {
       "brand": "EATON LEY",
       "type": "SMALL",
-      "size": "12X26",
-      "model": "PATLA"
+      "size": "12X26"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0018.png",
     "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0018%20-%20EATON%20PTO%20LEY%20SMALL%2012X26%20PATLA"
@@ -213,7 +250,9 @@
   {
     "product_code": "INF-0019",
     "product_name": "GEAR BOX G1150 HOUSING",
-    "categories": ["GEAR BOX"],
+    "categories": [
+      "GEAR BOX"
+    ],
     "specifications": {
       "model": "G1150",
       "type": "HOUSING"
@@ -224,7 +263,9 @@
   {
     "product_code": "INF-0020",
     "product_name": "BOGI BS4 OUTPIN",
-    "categories": ["BOGI"],
+    "categories": [
+      "BOGI"
+    ],
     "specifications": {
       "type": "OUTPIN",
       "model": "BS4"
@@ -235,7 +276,9 @@
   {
     "product_code": "INF-0021",
     "product_name": "BOGI BS4 WITHPIN",
-    "categories": ["BOGI"],
+    "categories": [
+      "BOGI"
+    ],
     "specifications": {
       "type": "WITHPIN",
       "model": "BS4"
@@ -246,7 +289,9 @@
   {
     "product_code": "INF-0022",
     "product_name": "BOGI BS6",
-    "categories": ["BOGI"],
+    "categories": [
+      "BOGI"
+    ],
     "specifications": {
       "model": "BS6"
     },
@@ -256,7 +301,9 @@
   {
     "product_code": "INF-0023",
     "product_name": "BOGI BS6 PLANE HOURSE",
-    "categories": ["BOGI"],
+    "categories": [
+      "BOGI"
+    ],
     "specifications": {
       "model": "BS6",
       "type": "PLANE HOURSE"
@@ -267,29 +314,35 @@
   {
     "product_code": "INF-0024",
     "product_name": "FLYWHEEL HOUSING BS3/BS4",
-    "categories": ["FLYWHEEL HOUSING"],
+    "categories": [
+      "FLYWHEEL HOUSING"
+    ],
     "specifications": {
       "model": "BS3/BS4"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0024.png",
-    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0024%20-%20FLYWHEEL%20HOUSING%20BS3/BS4"
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0024%20-%20FLYWHEEL%20HOUSING%20BS3%2FBS4"
   },
   {
     "product_code": "INF-0025",
     "product_name": "6X39 PINION 576 / BM39 NGP",
-    "categories": ["PINION"],
+    "categories": [
+      "PINION"
+    ],
     "specifications": {
       "size": "6X39",
       "teeth": "576",
       "model": "BM39 NGP"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0025.png",
-    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0025%20-%206X39%20PINION%20576%20/%20BM39%20NGP"
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0025%20-%206X39%20PINION%20576%20%2F%20BM39%20NGP"
   },
   {
     "product_code": "INF-0026",
     "product_name": "6X39 PINION 0BM39",
-    "categories": ["PINION"],
+    "categories": [
+      "PINION"
+    ],
     "specifications": {
       "size": "6X39",
       "model": "0BM39"
@@ -300,7 +353,9 @@
   {
     "product_code": "INF-0027",
     "product_name": "6X37 PINION",
-    "categories": ["PINION"],
+    "categories": [
+      "PINION"
+    ],
     "specifications": {
       "size": "6X37"
     },
@@ -310,29 +365,35 @@
   {
     "product_code": "INF-0028",
     "product_name": "6X37 PINION 464NG / BE22NG",
-    "categories": ["PINION"],
+    "categories": [
+      "PINION"
+    ],
     "specifications": {
       "size": "6X37",
       "model": "464NG / BE22NG"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0028.png",
-    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0028%20-%206X37%20PINION%20464NG%20/%20BE22NG"
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0028%20-%206X37%20PINION%20464NG%20%2F%20BE22NG"
   },
   {
     "product_code": "INF-0029",
     "product_name": "6X35 PINION 408NG / BM35",
-    "categories": ["PINION"],
+    "categories": [
+      "PINION"
+    ],
     "specifications": {
       "size": "6X35",
       "model": "408NG / BM35"
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0029.png",
-    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0029%20-%206X35%20PINION%20408NG%20/%20BM35"
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0029%20-%206X35%20PINION%20408NG%20%2F%20BM35"
   },
   {
     "product_code": "INF-0030",
     "product_name": "4395F 6X35 PINION NGF",
-    "categories": ["PINION"],
+    "categories": [
+      "PINION"
+    ],
     "specifications": {
       "model": "4395F",
       "size": "6X35",
@@ -340,5 +401,261 @@
     },
     "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0030.png",
     "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0030%20-%204395F%206X35%20PINION%20NGF"
+  },
+  {
+    "product_code": "INF-0031",
+    "product_name": "6X35 PINION 4323 / BD25 DANA",
+    "categories": [
+      "PINION"
+    ],
+    "specifications": {
+      "size": "6X35",
+      "model": "4323 / BD25",
+      "brand": "DANA"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0031.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0031%20-%206X35%20PINION%204323%20%2F%20BD25%20DANA"
+  },
+  {
+    "product_code": "INF-0032",
+    "product_name": "7X43 PINION",
+    "categories": [
+      "PINION"
+    ],
+    "specifications": {
+      "size": "7X43"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0032.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0032%20-%207X43%20PINION"
+  },
+  {
+    "product_code": "INF-0033",
+    "product_name": "6X41 PINION 466 /BM28",
+    "categories": [
+      "PINION"
+    ],
+    "specifications": {
+      "size": "6X41",
+      "model": "466 /BM28"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0033.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0033%20-%206X41%20PINION%20466%20%2FBM28"
+  },
+  {
+    "product_code": "INF-0034",
+    "product_name": "6X41 PINION",
+    "categories": [
+      "PINION"
+    ],
+    "specifications": {
+      "size": "6X41"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0034.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0034%20-%206X41%20PINION"
+  },
+  {
+    "product_code": "INF-0035",
+    "product_name": "CLUTCH BEARING 380-SELF CRB WITH HUB-SHOT",
+    "categories": [
+      "CLUTCH BEARING"
+    ],
+    "specifications": {
+      "model": "380-SELF CRB",
+      "features": "WITH HUB-SHOT"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0035.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0035%20-%20CLUTCH%20BEARING%20380-SELF%20CRB%20WITH%20HUB-SHOT"
+  },
+  {
+    "product_code": "INF-0036",
+    "product_name": "6X41 PINION 642 / BM23",
+    "categories": [
+      "PINION"
+    ],
+    "specifications": {
+      "size": "6X41",
+      "model": "642 / BM23"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0036.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0036%20-%206X41%20PINION%20642%20%2F%20BM23"
+  },
+  {
+    "product_code": "INF-0037",
+    "product_name": "6X41 PINION BM47",
+    "categories": [
+      "PINION"
+    ],
+    "specifications": {
+      "size": "6X41",
+      "model": "BM47"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0037.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0037%20-%206X41%20PINION%20BM47"
+  },
+  {
+    "product_code": "INF-0038",
+    "product_name": "6X37 PINION 644 / BEM46",
+    "categories": [
+      "PINION"
+    ],
+    "specifications": {
+      "size": "6X37",
+      "model": "644 / BEM46"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0038.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0038%20-%206X37%20PINION%20644%20%2F%20BEM46"
+  },
+  {
+    "product_code": "INF-0039",
+    "product_name": "6X37 PINION /BM46N",
+    "categories": [
+      "PINION"
+    ],
+    "specifications": {
+      "size": "6X37",
+      "model": "/BM46N"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0039.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0039%20-%206X37%20PINION%20%2FBM46N"
+  },
+  {
+    "product_code": "INF-0040",
+    "product_name": "7X41 PINION 41670 / BE60",
+    "categories": [
+      "PINION"
+    ],
+    "specifications": {
+      "size": "7X41",
+      "model": "41670 / BE60"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0040.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0040%20-%207X41%20PINION%2041670%20%2F%20BE60"
+  },
+  {
+    "product_code": "INF-0041",
+    "product_name": "6X41 PINION NPA/PL80",
+    "categories": [
+      "PINION"
+    ],
+    "specifications": {
+      "size": "6X41",
+      "model": "NPA/PL80"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0041.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0041%20-%206X41%20PINION%20NPA%2FPL80"
+  },
+  {
+    "product_code": "INF-0042",
+    "product_name": "6X41 PINION NPA/PL81",
+    "categories": [
+      "PINION"
+    ],
+    "specifications": {
+      "size": "6X41",
+      "model": "NPA/PL81"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0042.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0042%20-%206X41%20PINION%20NPA%2FPL81"
+  },
+  {
+    "product_code": "INF-0043",
+    "product_name": "6X35 PINION BM65",
+    "categories": [
+      "PINION"
+    ],
+    "specifications": {
+      "size": "6X35",
+      "model": "BM65"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0043.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0043%20-%206X35%20PINION%20BM65"
+  },
+  {
+    "product_code": "INF-0044",
+    "product_name": "CLUTCH BEARING 380-SELF HUB 3718 2523",
+    "categories": [
+      "CLUTCH BEARING"
+    ],
+    "specifications": {
+      "model": "380-SELF HUB"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0044.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0044%20-%20CLUTCH%20BEARING%20380-SELF%20HUB%203718%202523"
+  },
+  {
+    "product_code": "INF-0045",
+    "product_name": "CLUTCH BEARING 380 SELF CRB HUB-SHOT",
+    "categories": [
+      "CLUTCH BEARING"
+    ],
+    "specifications": {
+      "model": "380 SELF CRB",
+      "features": "HUB-SHOT"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0045.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0045%20-%20CLUTCH%20BEARING%20380%20SELF%20CRB%20HUB-SHOT"
+  },
+  {
+    "product_code": "INF-0046",
+    "product_name": "CLUTCH BEARING 380-430 CRB HUB 3718/2523",
+    "categories": [
+      "CLUTCH BEARING"
+    ],
+    "specifications": {
+      "model": "380-430 CRB HUB"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0046.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0046%20-%20CLUTCH%20BEARING%20380-430%20CRB%20HUB%203718%2F2523"
+  },
+  {
+    "product_code": "INF-0047",
+    "product_name": "CLUTCH BEARING 380/395 CRB HUB -GB75 BS6 MODIFIED",
+    "categories": [
+      "CLUTCH BEARING"
+    ],
+    "specifications": {
+      "model": "380/395 CRB HUB",
+      "compatible": "GB75 BS6"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0047.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0047%20-%20CLUTCH%20BEARING%20380%2F395%20CRB%20HUB%20-GB75%20BS6%20MODIFIED"
+  },
+  {
+    "product_code": "INF-0048",
+    "product_name": "CLUTCH BEARING 430-PRIMA SIGNA BS6",
+    "categories": [
+      "CLUTCH BEARING"
+    ],
+    "specifications": {
+      "model": "430-PRIMA SIGNA",
+      "compatible": "BS6"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0048.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0048%20-%20CLUTCH%20BEARING%20430-PRIMA%20SIGNA%20BS6"
+  },
+  {
+    "product_code": "INF-0049",
+    "product_name": "CLUTCH BEARING 430 CRB HUB PRIMA SIGNA BS6",
+    "categories": [
+      "CLUTCH BEARING"
+    ],
+    "specifications": {
+      "model": "430 CRB HUB",
+      "compatible": "PRIMA SIGNA BS6"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0049.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0049%20-%20CLUTCH%20BEARING%20430%20CRB%20HUB%20PRIMA%20SIGNA%20BS6"
+  },
+  {
+    "product_code": "INF-0050",
+    "product_name": "CLUTCH BEARING 430-PRIMA",
+    "categories": [
+      "CLUTCH BEARING"
+    ],
+    "specifications": {
+      "model": "430-PRIMA"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/ekassethi27/infinity-auto-parts@main/images/INF-0050.png",
+    "whatsapp_url": "https://wa.me/919871094466?text=Hello,%20I%20would%20like%20to%20enquire%20about%20product%20INF-0050%20-%20CLUTCH%20BEARING%20430-PRIMA"
   }
 ]
