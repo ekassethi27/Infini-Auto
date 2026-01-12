@@ -28,7 +28,7 @@ export const About = () => {
   ];
 
   return (
-    <div className="min-h-screen bg-background pb-20 md:pb-0">
+    <div className="min-h-screen bg-background pt-28 md:pt-0">
       {/* Hero Section */}
       <div className="bg-secondary border-b border-border">
         <div className="container mx-auto px-4 py-12">
