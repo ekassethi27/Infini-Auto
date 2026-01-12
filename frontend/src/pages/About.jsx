@@ -1,6 +1,7 @@
 import React from 'react';
 import { Card, CardContent } from '@/components/ui/card';
 import { Award, Globe, Users, CheckCircle } from 'lucide-react';
+import { RequestProductButton } from '@/components/RequestProductButton';
 
 export const About = () => {
   const features = [
