@@ -22,7 +22,7 @@ export const Home = () => {
   ];
 
   return (
-    <div className="min-h-screen pb-0 md:pb-0">
+    <div className="min-h-screen pt-28 md:pt-0">
       {/* Hero Section - Redesigned */}
       <section className="relative min-h-[85vh] md:min-h-[90vh] flex items-center justify-center bg-gradient-to-br from-secondary via-background to-secondary overflow-hidden">
         {/* Animated Background Pattern */}
