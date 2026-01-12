@@ -259,8 +259,9 @@ export const Products = () => {
                       </h3>
                       <p className="product-code mb-4">{product.product_code}</p>
                     </Link>
-                    <Button asChild variant="default" size="sm" className="mt-auto w-full">
-                      <a href={product.whatsapp_url} target="_blank" rel="noopener noreferrer" onClick={(e) => e.stopPropagation()}>
+                    <Button asChild variant="default" size="sm" className="mt-auto w-full bg-[#25D366] hover:bg-[#20BD5A] text-white">
+                      <a href={product.whatsapp_url} target="_blank" rel="noopener noreferrer" onClick={(e) => e.stopPropagation()} className="flex items-center gap-2 justify-center">
+                        <img src="/whatsapp-icon.svg" alt="WhatsApp" className="w-4 h-4 brightness-0 invert" />
                         Enquire on WhatsApp
                       </a>
                     </Button>
