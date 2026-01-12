@@ -84,16 +84,16 @@ export const Header = () => {
         </div>
       </header>
 
-      {/* Mobile Floating Navigation Bar */}
-      <nav className="fixed bottom-0 left-0 right-0 z-50 bg-background border-t border-border shadow-lg md:hidden">
-        <div className="grid grid-cols-4 h-16">
+      {/* Mobile Floating Navigation Bar - Top */}
+      <nav className="fixed top-16 left-0 right-0 z-40 bg-background/95 backdrop-blur-sm border-b border-border shadow-md md:hidden">
+        <div className="grid grid-cols-4 h-14">
           <Link
             to="/"
             className={`flex flex-col items-center justify-center gap-1 transition-colors ${
               isActive('/') ? 'text-primary bg-secondary' : 'text-muted-foreground'
             }`}
           >
-            <Home size={20} />
+            <Home size={18} />
             <span className="text-xs font-medium">Home</span>
           </Link>
           <Link
@@ -102,7 +102,7 @@ export const Header = () => {
               isActive('/products') || location.pathname.startsWith('/products/') ? 'text-primary bg-secondary' : 'text-muted-foreground'
             }`}
           >
-            <Package size={20} />
+            <Package size={18} />
             <span className="text-xs font-medium">Products</span>
           </Link>
           <Link
@@ -111,7 +111,7 @@ export const Header = () => {
               isActive('/about') ? 'text-primary bg-secondary' : 'text-muted-foreground'
             }`}
           >
-            <Info size={20} />
+            <Info size={18} />
             <span className="text-xs font-medium">About</span>
           </Link>
           <Link
@@ -120,7 +120,7 @@ export const Header = () => {
               isActive('/contact') ? 'text-primary bg-secondary' : 'text-muted-foreground'
             }`}
           >
-            <Phone size={20} />
+            <Phone size={18} />
             <span className="text-xs font-medium">Contact</span>
           </Link>
         </div>
