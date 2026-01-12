@@ -112,6 +112,8 @@ export const Contact = () => {
               </a>
             </Button>
           </div>
+          
+          <RequestProductButton />
         </div>
       </div>
     </div>
