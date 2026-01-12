@@ -13,11 +13,12 @@ export const Header = () => {
     <header className="sticky top-0 z-50 w-full border-b border-border bg-background">
       <div className="container mx-auto">
         <div className="flex h-16 items-center justify-between px-4">
-          <Link to="/" className="flex items-center space-x-2">
-            <div className="flex items-center">
-              <span className="text-2xl font-bold text-primary">Infinity</span>
-              <span className="ml-2 text-xl font-medium text-foreground">Auto Parts</span>
-            </div>
+          <Link to="/" className="flex items-center">
+            <img 
+              src="/infinity-logo.png" 
+              alt="Infinity Auto Parts" 
+              className="h-12 w-auto"
+            />
           </Link>
 
           <nav className="hidden md:flex items-center space-x-8">
