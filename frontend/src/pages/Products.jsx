@@ -107,9 +107,9 @@ export const Products = () => {
           <div className="flex-1">
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
               {currentProducts.map(product => (
-                <Link key={product.product_code} to={`/products/${product.product_code}`}>
-                  <Card className="card-hover h-full">
-                    <CardContent className="p-6 flex flex-col h-full">
+                <Card key={product.product_code} className="card-hover h-full">
+                  <CardContent className="p-6 flex flex-col h-full">
+                    <Link to={`/products/${product.product_code}`} className="block">
                       <div className="aspect-square bg-secondary rounded-lg mb-4 flex items-center justify-center overflow-hidden">
                         <img
                           src={product.image}
@@ -118,27 +118,25 @@ export const Products = () => {
                           loading="lazy"
                         />
                       </div>
-                      <div className="flex-1 flex flex-col">
-                        <div className="flex flex-wrap gap-1 mb-2">
-                          {product.categories.slice(0, 2).map((cat, idx) => (
-                            <Badge key={idx} variant="secondary" className="text-xs">
-                              {cat}
-                            </Badge>
-                          ))}
-                        </div>
-                        <h3 className="font-semibold text-foreground mb-2 line-clamp-2">
-                          {product.product_name}
-                        </h3>
-                        <p className="product-code mb-4">{product.product_code}</p>
-                        <Button asChild variant="default" size="sm" className="mt-auto">
-                          <a href={product.whatsapp_url} target="_blank" rel="noopener noreferrer">
-                            Enquire on WhatsApp
-                          </a>
-                        </Button>
+                      <div className="flex flex-wrap gap-1 mb-2">
+                        {product.categories.slice(0, 2).map((cat, idx) => (
+                          <Badge key={idx} variant="secondary" className="text-xs">
+                            {cat}
+                          </Badge>
+                        ))}
                       </div>
-                    </CardContent>
-                  </Card>
-                </Link>
+                      <h3 className="font-semibold text-foreground mb-2 line-clamp-2">
+                        {product.product_name}
+                      </h3>
+                      <p className="product-code mb-4">{product.product_code}</p>
+                    </Link>
+                    <Button asChild variant="default" size="sm" className="mt-auto">
+                      <a href={product.whatsapp_url} target="_blank" rel="noopener noreferrer" onClick={(e) => e.stopPropagation()}>
+                        Enquire on WhatsApp
+                      </a>
+                    </Button>
+                  </CardContent>
+                </Card>
               ))}
             </div>
 
