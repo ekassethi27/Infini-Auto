@@ -12,7 +12,7 @@ export const Contact = () => {
   ];
 
   return (
-    <div className="min-h-screen bg-background">
+    <div className="min-h-screen bg-background pb-20 md:pb-0">
       <div className="bg-secondary border-b border-border">
         <div className="container mx-auto px-4 py-12">
           <h1 className="text-4xl font-bold text-foreground mb-4">Contact Us</h1>
