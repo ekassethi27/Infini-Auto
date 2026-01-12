@@ -2,6 +2,7 @@ import React from 'react';
 import { Card, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Phone, MessageCircle, Clock } from 'lucide-react';
+import { RequestProductButton } from '@/components/RequestProductButton';
 
 export const Contact = () => {
   const businessHours = [
