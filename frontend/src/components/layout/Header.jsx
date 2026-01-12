@@ -17,7 +17,8 @@ export const Header = () => {
             <img 
               src="/infinity-logo.png" 
               alt="Infinity Auto Parts" 
-              className="h-12 w-auto"
+              className="h-10 w-auto object-contain"
+              style={{ filter: 'drop-shadow(0 1px 2px rgb(0 0 0 / 0.05))' }}
             />
           </Link>
 
