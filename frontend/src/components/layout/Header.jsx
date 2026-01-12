@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Menu, X } from 'lucide-react';
+import { Menu, X, Home, Package, Info, Phone } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 
 export const Header = () => {
@@ -10,117 +10,121 @@ export const Header = () => {
   const isActive = (path) => location.pathname === path;
 
   return (
-    <header className="sticky top-0 z-50 w-full border-b border-border bg-background">
-      <div className="container mx-auto">
-        <div className="flex h-16 items-center justify-between px-4">
-          <Link to="/" className="flex items-center">
-            <img 
-              src="/infinity-logo.png" 
-              alt="Infinity Auto Parts" 
-              className="h-10 w-auto object-contain"
-              style={{ filter: 'drop-shadow(0 1px 2px rgb(0 0 0 / 0.05))' }}
-            />
-          </Link>
-
-          <nav className="hidden md:flex items-center space-x-8">
-            <Link
-              to="/"
-              className={`text-sm font-medium transition-colors hover:text-primary ${
-                isActive('/') ? 'text-primary' : 'text-foreground'
-              }`}
-            >
-              Home
+    <>
+      {/* Desktop Header */}
+      <header className="sticky top-0 z-50 w-full border-b border-border bg-background hidden md:block">
+        <div className="container mx-auto">
+          <div className="flex h-20 items-center justify-between px-4">
+            {/* Logo */}
+            <Link to="/" className="flex items-center">
+              <img 
+                src="/infinity-logo.png" 
+                alt="Infinity Auto Parts" 
+                className="h-16 w-auto object-contain"
+              />
             </Link>
-            <Link
-              to="/products"
-              className={`text-sm font-medium transition-colors hover:text-primary ${
-                isActive('/products') ? 'text-primary' : 'text-foreground'
-              }`}
-            >
-              Products
-            </Link>
-            <Link
-              to="/about"
-              className={`text-sm font-medium transition-colors hover:text-primary ${
-                isActive('/about') ? 'text-primary' : 'text-foreground'
-              }`}
-            >
-              About Us
-            </Link>
-            <Link
-              to="/contact"
-              className={`text-sm font-medium transition-colors hover:text-primary ${
-                isActive('/contact') ? 'text-primary' : 'text-foreground'
-              }`}
-            >
-              Contact
-            </Link>
-          </nav>
 
-          <div className="hidden md:flex items-center space-x-4">
-            <Button asChild variant="default" size="sm">
-              <a href="https://wa.me/919871094466" target="_blank" rel="noopener noreferrer">
-                WhatsApp Enquiry
-              </a>
-            </Button>
-          </div>
-
-          <button
-            className="md:hidden"
-            onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-          >
-            {mobileMenuOpen ? <X size={24} /> : <Menu size={24} />}
-          </button>
-        </div>
-
-        {mobileMenuOpen && (
-          <div className="md:hidden border-t border-border">
-            <div className="flex flex-col space-y-4 px-4 py-6">
+            <nav className="flex items-center space-x-8">
               <Link
                 to="/"
-                className={`text-sm font-medium ${
+                className={`text-base font-medium transition-colors hover:text-primary ${
                   isActive('/') ? 'text-primary' : 'text-foreground'
                 }`}
-                onClick={() => setMobileMenuOpen(false)}
               >
                 Home
               </Link>
               <Link
                 to="/products"
-                className={`text-sm font-medium ${
+                className={`text-base font-medium transition-colors hover:text-primary ${
                   isActive('/products') ? 'text-primary' : 'text-foreground'
                 }`}
-                onClick={() => setMobileMenuOpen(false)}
               >
                 Products
               </Link>
               <Link
                 to="/about"
-                className={`text-sm font-medium ${
+                className={`text-base font-medium transition-colors hover:text-primary ${
                   isActive('/about') ? 'text-primary' : 'text-foreground'
                 }`}
-                onClick={() => setMobileMenuOpen(false)}
               >
                 About Us
               </Link>
               <Link
                 to="/contact"
-                className={`text-sm font-medium ${
+                className={`text-base font-medium transition-colors hover:text-primary ${
                   isActive('/contact') ? 'text-primary' : 'text-foreground'
                 }`}
-                onClick={() => setMobileMenuOpen(false)}
               >
                 Contact
               </Link>
-              <Button asChild variant="default" size="sm" className="w-full">
-                <a href="https://wa.me/919871094466" target="_blank" rel="noopener noreferrer">
+            </nav>
+
+            <div className="flex items-center space-x-4">
+              <Button asChild size="lg" className="bg-[#25D366] hover:bg-[#20BD5A] text-white">
+                <a href="https://wa.me/919871094466" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
+                  <img src="/whatsapp-icon.svg" alt="WhatsApp" className="w-5 h-5 brightness-0 invert" />
                   WhatsApp Enquiry
                 </a>
               </Button>
             </div>
           </div>
-        )}
-      </div>
-    </header>
+        </div>
+      </header>
+
+      {/* Mobile Header with Logo */}
+      <header className="sticky top-0 z-50 w-full border-b border-border bg-background md:hidden">
+        <div className="flex h-16 items-center justify-center px-4">
+          <Link to="/" className="flex items-center">
+            <img 
+              src="/infinity-logo.png" 
+              alt="Infinity Auto Parts" 
+              className="h-12 w-auto object-contain"
+            />
+          </Link>
+        </div>
+      </header>
+
+      {/* Mobile Floating Navigation Bar */}
+      <nav className="fixed bottom-0 left-0 right-0 z-50 bg-background border-t border-border shadow-lg md:hidden">
+        <div className="grid grid-cols-4 h-16">
+          <Link
+            to="/"
+            className={`flex flex-col items-center justify-center gap-1 transition-colors ${
+              isActive('/') ? 'text-primary bg-secondary' : 'text-muted-foreground'
+            }`}
+          >
+            <Home size={20} />
+            <span className="text-xs font-medium">Home</span>
+          </Link>
+          <Link
+            to="/products"
+            className={`flex flex-col items-center justify-center gap-1 transition-colors ${
+              isActive('/products') || location.pathname.startsWith('/products/') ? 'text-primary bg-secondary' : 'text-muted-foreground'
+            }`}
+          >
+            <Package size={20} />
+            <span className="text-xs font-medium">Products</span>
+          </Link>
+          <Link
+            to="/about"
+            className={`flex flex-col items-center justify-center gap-1 transition-colors ${
+              isActive('/about') ? 'text-primary bg-secondary' : 'text-muted-foreground'
+            }`}
+          >
+            <Info size={20} />
+            <span className="text-xs font-medium">About</span>
+          </Link>
+          <Link
+            to="/contact"
+            className={`flex flex-col items-center justify-center gap-1 transition-colors ${
+              isActive('/contact') ? 'text-primary bg-secondary' : 'text-muted-foreground'
+            }`}
+          >
+            <Phone size={20} />
+            <span className="text-xs font-medium">Contact</span>
+          </Link>
+        </div>
+      </nav>
+    </>
   );
 };
