@@ -6,6 +6,7 @@ import { Input } from '@/components/ui/input';
 import { Badge } from '@/components/ui/badge';
 import { Search, Filter, X, Settings, Disc, Box, Circle, Hexagon, Layers, Grid3x3 } from 'lucide-react';
 import productsData from '@/data/products.json';
+import { RequestProductButton } from '@/components/RequestProductButton';
 
 // Icon mapping for categories
 const getCategoryIcon = (category) => {
