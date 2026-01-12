@@ -45,11 +45,11 @@ export const About = () => {
           <CardContent className="p-0">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-0">
               {/* Image */}
-              <div className="relative h-96 md:h-auto w-full">
+              <div className="relative h-[500px] md:h-auto w-full">
                 <img
                   src="/founder.png"
                   alt="Gagandeep Singh Sethi - Founder"
-                  className="w-full h-full object-cover object-center"
+                  className="w-full h-full object-cover object-top"
                 />
               </div>
 
